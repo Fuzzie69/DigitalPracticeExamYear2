@@ -1,0 +1,4825 @@
+[
+  {
+    "id": 1,
+    "question": "What is the unit of electrical resistance?",
+    "options": [
+      "Ohm",
+      "Volt",
+      "Ampere",
+      "Watt"
+    ],
+    "answer": "Ohm",
+    "reference": "Basic Electrical Units"
+  },
+  {
+    "id": 2,
+    "question": "In a simple series circuit, how does current behave through resistors?",
+    "options": [
+      "Same through all components",
+      "Splits between components",
+      "Zero after first component",
+      "Only flows through largest resistor"
+    ],
+    "answer": "Same through all components",
+    "reference": "Series and Parallel Circuits"
+  },
+  {
+    "id": 3,
+    "question": "What is one formula for electrical power (P) in DC circuits?",
+    "options": [
+      "P = V \u00d7 I",
+      "P = V / I",
+      "P = I^2 \u00d7 V",
+      "P = V \u00d7 R"
+    ],
+    "answer": "P = V \u00d7 I",
+    "reference": "Power formula: P = V\u00d7I "
+  },
+  {
+    "id": 4,
+    "question": "Which instrument is best for measuring insulation resistance?",
+    "options": [
+      "Multimeter",
+      "Insulation resistance tester",
+      "Clamp meter",
+      "Oscilloscope"
+    ],
+    "answer": "Insulation resistance tester",
+    "reference": "Appliance and Site Testing"
+  },
+  {
+    "id": 5,
+    "question": "What is the purpose of earthing (grounding) in electrical installations?",
+    "options": [
+      "Provide a path for fault currents",
+      "Improve signal quality",
+      "Increase voltage",
+      "Store energy"
+    ],
+    "answer": "Provide a path for fault currents",
+    "reference": "Earthing and Bonding"
+  },
+  {
+    "id": 6,
+    "question": "Which device provides overload protection for motors?",
+    "options": [
+      "Circuit breaker",
+      "Thermal overload relay",
+      "Fuse",
+      "Residual current device"
+    ],
+    "answer": "Thermal overload relay",
+    "reference": "Motor Protection"
+  },
+  {
+    "id": 7,
+    "question": "In AC circuits, what does power factor describe?",
+    "options": [
+      "Phase difference between voltage and current",
+      "Resistance level",
+      "Frequency stability",
+      "Peak voltage"
+    ],
+    "answer": "Phase difference between voltage and current",
+    "reference": "AC Theory & Power Factor"
+  },
+  {
+    "id": 8,
+    "question": "Which colour is commonly used for active (phase) conductors in New Zealand fixed wiring?",
+    "options": [
+      "Red",
+      "Black",
+      "Green/Yellow",
+      "White"
+    ],
+    "answer": "Red",
+    "reference": "NZ Wiring Colours (practical guidance)"
+  },
+  {
+    "id": 9,
+    "question": "What property determines how much current flows for a given voltage?",
+    "options": [
+      "Resistance",
+      "Capacitance",
+      "Inductance",
+      "Reactance only"
+    ],
+    "answer": "Resistance",
+    "reference": "Ohm's Law"
+  },
+  {
+    "id": 10,
+    "question": "Which component stores electrical energy in an electric field?",
+    "options": [
+      "Inductor",
+      "Capacitor",
+      "Resistor",
+      "Diode"
+    ],
+    "answer": "Capacitor",
+    "reference": "Electronic Components"
+  },
+  {
+    "id": 11,
+    "question": "What is the main hazard mitigated by residual current devices (RCDs)?",
+    "options": [
+      "Overcurrent damage",
+      "Earth leakage leading to shock",
+      "Voltage spikes",
+      "Motor overload"
+    ],
+    "answer": "Earth leakage leading to shock",
+    "reference": "Electrical Safety Devices"
+  },
+  {
+    "id": 12,
+    "question": "Solder joints should be:",
+    "options": [
+      "Cold and dull",
+      "Shiny and smooth",
+      "Granular",
+      "Too much solder visible"
+    ],
+    "answer": "Shiny and smooth",
+    "reference": "Soldering Best Practices"
+  },
+  {
+    "id": 13,
+    "question": "Which law relates magnetic field and current (right-hand rule context)?",
+    "options": [
+      "Faraday's Law",
+      "Ohm's Law",
+      "Biot\u2013Savart / Amp\u00e8re's Law",
+      "Coulomb's Law"
+    ],
+    "answer": "Biot\u2013Savart / Amp\u00e8re's Law",
+    "reference": "Magnetism and Electromagnetism"
+  },
+  {
+    "id": 14,
+    "question": "What device converts mechanical energy to electrical energy?",
+    "options": [
+      "Transformer",
+      "Motor",
+      "Generator",
+      "Rectifier"
+    ],
+    "answer": "Generator",
+    "reference": "Methods of EMF Generation"
+  },
+  {
+    "id": 15,
+    "question": "Which test confirms a conductor has been safely isolated before work?",
+    "options": [
+      "Visual check",
+      "Voltage indicator test after isolation",
+      "Touch test",
+      "Insulation resistance test only"
+    ],
+    "answer": "Voltage indicator test after isolation",
+    "reference": "Safe Isolation Procedures"
+  },
+  {
+    "id": 16,
+    "question": "What is the common unit for frequency in mains electricity?",
+    "options": [
+      "Hertz (Hz)",
+      "Ohm (\u03a9)",
+      "Volt (V)",
+      "Watt (W)"
+    ],
+    "answer": "Hertz (Hz)",
+    "reference": "AC Fundamentals"
+  },
+  {
+    "id": 17,
+    "question": "What does an isolating transformer provide?",
+    "options": [
+      "Galvanic isolation",
+      "Increased current",
+      "Step-up voltage without isolation",
+      "Short-circuit protection"
+    ],
+    "answer": "Galvanic isolation",
+    "reference": "Isolation & Testing of Subcircuits"
+  },
+  {
+    "id": 18,
+    "question": "Which legislation/standard is most relevant for electrical installations safety (NZ context)?",
+    "options": [
+      "AS/NZS 3000 Wiring Rules",
+      "ISO 9001",
+      "IEEE 802.11",
+      "BS 1363"
+    ],
+    "answer": "AS/NZS 3000 Wiring Rules",
+    "reference": "Standards and Legislation"
+  },
+  {
+    "id": 19,
+    "question": "What is the function of a transformer?",
+    "options": [
+      "Change AC voltage level",
+      "Change DC voltage",
+      "Store electrical energy",
+      "Measure current"
+    ],
+    "answer": "Change AC voltage level",
+    "reference": "Transformers"
+  },
+  {
+    "id": 20,
+    "question": "Which test instrument displays waveform shapes and transient events?",
+    "options": [
+      "Multimeter",
+      "Oscilloscope",
+      "Clamp meter",
+      "Insulation tester"
+    ],
+    "answer": "Oscilloscope",
+    "reference": "Test Instruments"
+  },
+  {
+    "id": 21,
+    "question": "What does RCD trip indicate?",
+    "options": [
+      "Excessive current through active conductor",
+      "Earth leakage current detected",
+      "Open neutral",
+      "Motor overload"
+    ],
+    "answer": "Earth leakage current detected",
+    "reference": "Protection Devices"
+  },
+  {
+    "id": 22,
+    "question": "Which material is typically used for conductors in building wiring?",
+    "options": [
+      "Copper",
+      "Aluminium oxide",
+      "Glass",
+      "Plastic"
+    ],
+    "answer": "Copper",
+    "reference": "Cables & Conductors"
+  },
+  {
+    "id": 23,
+    "question": "What is the purpose of a neutral conductor?",
+    "options": [
+      "Return path for current to the source",
+      "Protect against shock",
+      "Supply earth",
+      "Increase voltage"
+    ],
+    "answer": "Return path for current to the source",
+    "reference": "AC Distribution"
+  },
+  {
+    "id": 24,
+    "question": "Which fault causes a short-circuit?",
+    "options": [
+      "Low resistance path between phase and neutral/earth",
+      "High resistance connection",
+      "Open circuit",
+      "Correct earthing"
+    ],
+    "answer": "Low resistance path between phase and neutral/earth",
+    "reference": "Fault Types and Protection"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is a safe practice when testing live circuits?",
+    "options": [
+      "Use appropriate rated test equipment and PPE",
+      "Remove PPE",
+      "Use hands to check voltage",
+      "Work alone"
+    ],
+    "answer": "Use appropriate rated test equipment and PPE",
+    "reference": "Safe Working Practices"
+  },
+  {
+    "id": 26,
+    "question": "Which component allows current to flow only in one direction?",
+    "options": [
+      "Capacitor",
+      "Inductor",
+      "Diode",
+      "Resistor"
+    ],
+    "answer": "Diode",
+    "reference": "Electronic Components"
+  },
+  {
+    "id": 27,
+    "question": "What is the main advantage of three-phase supply over single-phase for power distribution?",
+    "options": [
+      "More efficient power transfer",
+      "Lower frequency",
+      "Cheaper meters",
+      "Less insulation needed"
+    ],
+    "answer": "More efficient power transfer",
+    "reference": "National Grid & Supply Systems"
+  },
+  {
+    "id": 28,
+    "question": "Which practice helps avoid electromagnetic interference in installations?",
+    "options": [
+      "Separate power and signal cables",
+      "Run signal and power together tightly",
+      "Use unshielded twisted cables for mains",
+      "Increase cable bundling"
+    ],
+    "answer": "Separate power and signal cables",
+    "reference": "EMI/EMC Best Practices"
+  },
+  {
+    "id": 29,
+    "question": "When inspecting a lighting circuit, a lamp that flickers intermittently most likely indicates:",
+    "options": [
+      "Loose connection or failing lamp",
+      "Correct wiring",
+      "Over-earthed neutral",
+      "Transformer primary fault only"
+    ],
+    "answer": "Loose connection or failing lamp",
+    "reference": "Lighting Fault Finding"
+  },
+  {
+    "id": 30,
+    "question": "What is the basic reason for using circuit protection (fuses, breakers) in installations?",
+    "options": [
+      "Prevent excessive current that could cause fire or damage",
+      "Increase supply voltage",
+      "Balance phases",
+      "Reduce energy consumption"
+    ],
+    "answer": "Prevent excessive current that could cause fire or damage",
+    "reference": "Circuit Protection"
+  },
+  {
+    "id": 31,
+    "question": "Which action ensures a circuit cannot be accidentally re-energised while maintenance is being carried out?",
+    "options": [
+      "Tagging only",
+      "Lockout and tagging",
+      "Switching off only",
+      "Covering switches"
+    ],
+    "answer": "Lockout and tagging",
+    "reference": "Module 1 \u2013 Safety Procedures"
+  },
+  {
+    "id": 32,
+    "question": "What is the main purpose of a residual current device (RCD)?",
+    "options": [
+      "To limit current to appliances",
+      "To detect current imbalance and disconnect power",
+      "To measure earth resistance",
+      "To maintain supply voltage stability"
+    ],
+    "answer": "To detect current imbalance and disconnect power",
+    "reference": "Module 1 \u2013 Electrical Safety"
+  },
+  {
+    "id": 33,
+    "question": "According to NZ electrical regulations, how often should a registered electrician renew their CPR and first aid training?",
+    "options": [
+      "Every 6 months",
+      "Annually",
+      "Every 2 years",
+      "Every 5 years"
+    ],
+    "answer": "Every 2 years",
+    "reference": "Module 1 \u2013 Regulatory Requirements"
+  },
+  {
+    "id": 34,
+    "question": "What is the most effective way to eliminate a workplace hazard?",
+    "options": [
+      "Warn others",
+      "Isolate the hazard",
+      "Remove the hazard completely",
+      "Use personal protective equipment"
+    ],
+    "answer": "Remove the hazard completely",
+    "reference": "Module 1 \u2013 Health and Safety Principles"
+  },
+  {
+    "id": 35,
+    "question": "Which standard outlines testing requirements for electrical portable equipment in New Zealand?",
+    "options": [
+      "AS/NZS 3760",
+      "AS/NZS 3000",
+      "AS/NZS 3017",
+      "ISO 9001"
+    ],
+    "answer": "AS/NZS 3760",
+    "reference": "Module 1 \u2013 Standards and Legislation"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following describes a fire cell in building construction?",
+    "options": [
+      "An area designed to contain a fire for a specified time",
+      "A compartment that encourages ventilation",
+      "A zone for fire suppression systems only",
+      "A section that spreads fire safely"
+    ],
+    "answer": "An area designed to contain a fire for a specified time",
+    "reference": "Module 1 \u2013 Fire Safety"
+  },
+  {
+    "id": 37,
+    "question": "A circuit breaker that disconnects automatically when a fault occurs provides which type of protection?",
+    "options": [
+      "Overload protection",
+      "Isolation protection",
+      "Arc suppression",
+      "Surge protection"
+    ],
+    "answer": "Overload protection",
+    "reference": "Module 1 \u2013 Electrical Protection Devices"
+  },
+  {
+    "id": 38,
+    "question": "When working on live electrical systems, which PPE item is mandatory?",
+    "options": [
+      "Steel-capped boots",
+      "Non-conductive gloves",
+      "Leather gloves",
+      "Safety helmet only"
+    ],
+    "answer": "Non-conductive gloves",
+    "reference": "Module 1 \u2013 Personal Protective Equipment"
+  },
+  {
+    "id": 39,
+    "question": "What happens to current in a circuit when resistance increases but voltage remains constant?",
+    "options": [
+      "Current increases",
+      "Current decreases",
+      "Voltage increases",
+      "No change"
+    ],
+    "answer": "Current decreases",
+    "reference": "Module 2 \u2013 Ohm\u2019s Law"
+  },
+  {
+    "id": 40,
+    "question": "What is the total resistance when two 20\u202f\u03a9 resistors are connected in parallel?",
+    "options": [
+      "10\u202f\u03a9",
+      "20\u202f\u03a9",
+      "40\u202f\u03a9",
+      "5\u202f\u03a9"
+    ],
+    "answer": "10\u202f\u03a9",
+    "reference": "Module 2 \u2013 Series and Parallel Circuits"
+  },
+  {
+    "id": 41,
+    "question": "A lamp rated at 100\u202fW, 230\u202fV draws approximately what current?",
+    "options": [
+      "0.23\u202fA",
+      "0.43\u202fA",
+      "0.65\u202fA",
+      "1\u202fA"
+    ],
+    "answer": "0.43\u202fA",
+    "reference": "Module 2 \u2013 Power and Energy Calculations"
+  },
+  {
+    "id": 42,
+    "question": "Which material is considered a good electrical insulator?",
+    "options": [
+      "Copper",
+      "Iron",
+      "PVC",
+      "Aluminium"
+    ],
+    "answer": "PVC",
+    "reference": "Module 2 \u2013 Conductors and Insulators"
+  },
+  {
+    "id": 43,
+    "question": "What component converts light into electrical energy?",
+    "options": [
+      "Thermocouple",
+      "Solar cell",
+      "Transformer",
+      "Inductor"
+    ],
+    "answer": "Solar cell",
+    "reference": "Module 2 \u2013 Energy Conversion"
+  },
+  {
+    "id": 44,
+    "question": "Which unit represents electrical capacitance?",
+    "options": [
+      "Henry",
+      "Farad",
+      "Ohm",
+      "Watt"
+    ],
+    "answer": "Farad",
+    "reference": "Module 2 \u2013 Capacitors"
+  },
+  {
+    "id": 45,
+    "question": "The relationship between current, voltage, and resistance is best expressed by which formula?",
+    "options": [
+      "I = V / R",
+      "V = I / R",
+      "R = P / V",
+      "P = I / V"
+    ],
+    "answer": "I = V / R",
+    "reference": "Module 2 \u2013 Electrical Laws"
+  },
+  {
+    "id": 46,
+    "question": "If a heater uses 2\u202fkW for 3\u202fhours, how many kilowatt-hours are consumed?",
+    "options": [
+      "1\u202fkWh",
+      "3\u202fkWh",
+      "6\u202fkWh",
+      "0.67\u202fkWh"
+    ],
+    "answer": "6\u202fkWh",
+    "reference": "Module 2 \u2013 Electrical Energy"
+  },
+  {
+    "id": 47,
+    "question": "What is the acceptable insulation resistance between motor windings?",
+    "options": [
+      "0.1\u202fM\u03a9",
+      "0.5\u202fM\u03a9",
+      "1\u202fM\u03a9",
+      "10\u202fM\u03a9"
+    ],
+    "answer": "1\u202fM\u03a9",
+    "reference": "Module 3 \u2013 Motor Testing"
+  },
+  {
+    "id": 48,
+    "question": "What instrument is used to measure current without breaking the circuit?",
+    "options": [
+      "Multimeter",
+      "Clamp meter",
+      "Megger",
+      "Oscilloscope"
+    ],
+    "answer": "Clamp meter",
+    "reference": "Module 3 \u2013 Measurement Tools"
+  },
+  {
+    "id": 49,
+    "question": "Before proving a circuit dead, a voltage indicator should be tested on:",
+    "options": [
+      "The isolated circuit only",
+      "A known live source",
+      "The neutral conductor",
+      "Earth terminal"
+    ],
+    "answer": "A known live source",
+    "reference": "Module 3 \u2013 Prove-Test-Prove Method"
+  },
+  {
+    "id": 50,
+    "question": "Which fault occurs when there is a low-resistance path between live conductors?",
+    "options": [
+      "Earth fault",
+      "Open circuit",
+      "Short circuit",
+      "Overvoltage"
+    ],
+    "answer": "Short circuit",
+    "reference": "Module 3 \u2013 Fault Finding"
+  },
+  {
+    "id": 51,
+    "question": "Which test determines continuity of protective conductors?",
+    "options": [
+      "Loop impedance test",
+      "Insulation resistance test",
+      "Continuity test",
+      "Polarity test"
+    ],
+    "answer": "Continuity test",
+    "reference": "Module 3 \u2013 Electrical Testing"
+  },
+  {
+    "id": 52,
+    "question": "A transformer with 1000 primary turns and 100 secondary turns is a:",
+    "options": [
+      "Step-up transformer",
+      "Step-down transformer",
+      "Isolation transformer",
+      "Auto-transformer"
+    ],
+    "answer": "Step-down transformer",
+    "reference": "Module 4 \u2013 Transformers"
+  },
+  {
+    "id": 53,
+    "question": "Which device protects a transformer from overheating?",
+    "options": [
+      "Fuse",
+      "Buchholz relay",
+      "Overload relay",
+      "Thermistor"
+    ],
+    "answer": "Buchholz relay",
+    "reference": "Module 4 \u2013 Transformer Protection"
+  },
+  {
+    "id": 54,
+    "question": "What is the illumination level at 2\u202fm below a lamp emitting 1200\u202fcd? (Use inverse square law)",
+    "options": [
+      "150\u202flux",
+      "300\u202flux",
+      "600\u202flux",
+      "75\u202flux"
+    ],
+    "answer": "300\u202flux",
+    "reference": "Module 4 \u2013 Lighting Calculations"
+  },
+  {
+    "id": 55,
+    "question": "Which type of lamp generates light by heating a filament until it glows?",
+    "options": [
+      "LED",
+      "Fluorescent",
+      "Incandescent",
+      "Mercury vapour"
+    ],
+    "answer": "Incandescent",
+    "reference": "Module 4 \u2013 Lighting Types"
+  },
+  {
+    "id": 56,
+    "question": "What is the main loss in transformer windings due to resistance?",
+    "options": [
+      "Iron loss",
+      "Copper loss",
+      "Eddy current loss",
+      "Flux loss"
+    ],
+    "answer": "Copper loss",
+    "reference": "Module 4 \u2013 Transformer Losses"
+  },
+  {
+    "id": 57,
+    "question": "Which component allows current to flow in only one direction?",
+    "options": [
+      "Resistor",
+      "Diode",
+      "Capacitor",
+      "Transistor"
+    ],
+    "answer": "Diode",
+    "reference": "Module 5 \u2013 Diodes"
+  },
+  {
+    "id": 58,
+    "question": "The opposition to current in an AC circuit due to inductance is called:",
+    "options": [
+      "Resistance",
+      "Reactance",
+      "Impedance",
+      "Capacitance"
+    ],
+    "answer": "Reactance",
+    "reference": "Module 5 \u2013 AC Theory"
+  },
+  {
+    "id": 59,
+    "question": "If the supply frequency increases, inductive reactance will:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Stay constant",
+      "Become zero"
+    ],
+    "answer": "Increase",
+    "reference": "Module 5 \u2013 Inductors"
+  },
+  {
+    "id": 60,
+    "question": "A bridge rectifier uses how many diodes?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "4",
+    "reference": "Module 5 \u2013 Rectification"
+  },
+  {
+    "id": 61,
+    "question": "Adding capacitors across the supply in an inductive system corrects which condition?",
+    "options": [
+      "Lagging power factor",
+      "Voltage drop",
+      "Overcurrent",
+      "Imbalance"
+    ],
+    "answer": "Lagging power factor",
+    "reference": "Module 5 \u2013 Power Factor Correction"
+  },
+  {
+    "id": 62,
+    "question": "The main earthing conductor connects the earth electrode to:",
+    "options": [
+      "The neutral conductor",
+      "The main earth bar",
+      "The supply transformer",
+      "The phase conductor"
+    ],
+    "answer": "The main earth bar",
+    "reference": "Module 6 \u2013 Earthing"
+  },
+  {
+    "id": 63,
+    "question": "High earth loop impedance may result in:",
+    "options": [
+      "Protective devices not tripping",
+      "Faster disconnection",
+      "Reduced voltage",
+      "Overheating of neutrals"
+    ],
+    "answer": "Protective devices not tripping",
+    "reference": "Module 6 \u2013 Fault Protection"
+  },
+  {
+    "id": 64,
+    "question": "An RCD with a sensitivity of 30\u202fmA provides protection mainly against:",
+    "options": [
+      "Electric shock",
+      "Overload",
+      "Short circuit",
+      "Voltage surge"
+    ],
+    "answer": "Electric shock",
+    "reference": "Module 6 \u2013 RCDs"
+  },
+  {
+    "id": 65,
+    "question": "Which material is often used as an earth electrode?",
+    "options": [
+      "PVC",
+      "Mica",
+      "Copper",
+      "Aluminium"
+    ],
+    "answer": "Copper",
+    "reference": "Module 6 \u2013 Earthing Materials"
+  },
+  {
+    "id": 66,
+    "question": "Motor overload relays are typically set according to:",
+    "options": [
+      "Starting current",
+      "Full-load current",
+      "No-load current",
+      "Peak current"
+    ],
+    "answer": "Full-load current",
+    "reference": "Module 7 \u2013 Motor Protection"
+  },
+  {
+    "id": 67,
+    "question": "In a DOL starter, the control circuit remains energised after release of the start button due to:",
+    "options": [
+      "A latching contact",
+      "A thermal element",
+      "A fuse link",
+      "A resistor"
+    ],
+    "answer": "A latching contact",
+    "reference": "Module 7 \u2013 Control Circuits"
+  },
+  {
+    "id": 68,
+    "question": "The purpose of discrimination between protective devices is to ensure:",
+    "options": [
+      "Only the nearest device to a fault operates",
+      "All devices trip together",
+      "Voltage is balanced",
+      "Short-circuit current increases"
+    ],
+    "answer": "Only the nearest device to a fault operates",
+    "reference": "Module 7 \u2013 Protection Coordination"
+  },
+  {
+    "id": 69,
+    "question": "A generator that automatically starts during a mains outage is classified as:",
+    "options": [
+      "Manual standby",
+      "Automatic standby",
+      "Portable unit",
+      "UPS backup"
+    ],
+    "answer": "Automatic standby",
+    "reference": "Module 8 \u2013 Generation Systems"
+  },
+  {
+    "id": 70,
+    "question": "The slip of an induction motor is defined as:",
+    "options": [
+      "Difference between synchronous and rotor speed",
+      "Ratio of torque to current",
+      "Increase in efficiency with load",
+      "Change in frequency under load"
+    ],
+    "answer": "Difference between synchronous and rotor speed",
+    "reference": "Module 8 \u2013 Motor Theory"
+  },
+  {
+  "id": 71,
+  "question": "A resistor has colour bands of brown, black, red, and gold. What is its nominal resistance value and tolerance?",
+  "options": [
+    "1 kΩ ±5%",
+    "10 kΩ ±10%",
+    "1 kΩ ±10%",
+    "100 Ω ±5%"
+  ],
+  "answer": "1 kΩ ±5%",
+  "reference": "Module 2 – Resistor Colour Codes"
+  },
+  {
+    "id": 72,
+    "question": "What type of fire extinguisher should be used on an electrical fire?",
+    "options": [
+      "Water",
+      "CO\u2082",
+      "Foam",
+      "Wet chemical"
+    ],
+    "answer": "CO\u2082",
+    "reference": "Module 1 \u2013 Fire Safety"
+  },
+  {
+    "id": 73,
+    "question": "A trainee must immediately report electrical equipment damage to whom?",
+    "options": [
+      "Their assessor",
+      "Their supervisor",
+      "Another apprentice",
+      "The site client"
+    ],
+    "answer": "Their supervisor",
+    "reference": "Module 1 \u2013 Workplace Responsibilities"
+  },
+  {
+    "id": 74,
+    "question": "What is the first step in the hierarchy of hazard control?",
+    "options": [
+      "Substitution",
+      "Engineering control",
+      "Elimination",
+      "PPE"
+    ],
+    "answer": "Elimination",
+    "reference": "Module 1 \u2013 Risk Management"
+  },
+  {
+    "id": 75,
+    "question": "Which regulation mandates the safe use of electrical equipment in New Zealand?",
+    "options": [
+      "Electricity (Safety) Regulations 2010",
+      "AS/NZS 3760",
+      "AS/NZS 3000",
+      "Health and Safety at Work Act 2015"
+    ],
+    "answer": "Electricity (Safety) Regulations 2010",
+    "reference": "Module 1 \u2013 Legislation"
+  },
+  {
+    "id": 76,
+    "question": "If a ladder is 4\u202fm high, what should be its base distance from the wall using the 1:4 rule?",
+    "options": [
+      "0.5\u202fm",
+      "1\u202fm",
+      "2\u202fm",
+      "4\u202fm"
+    ],
+    "answer": "1\u202fm",
+    "reference": "Module 1 \u2013 Safe Work Practices"
+  },
+  {
+    "id": 77,
+    "question": "Which document defines employer obligations for electrical apprenticeships in NZ?",
+    "options": [
+      "Employment Relations Act 2000",
+      "Electricity Act 1994",
+      "Building Act 2004",
+      "Energy Safety Act 2010"
+    ],
+    "answer": "Employment Relations Act 2000",
+    "reference": "Module 1 \u2013 Workplace Law"
+  },
+  {
+    "id": 78,
+    "question": "A shock current of 30\u202fmA through the human body is considered:",
+    "options": [
+      "Safe",
+      "Painful but harmless",
+      "Potentially lethal",
+      "Below threshold of sensation"
+    ],
+    "answer": "Potentially lethal",
+    "reference": "Module 1 \u2013 Electrical Shock Effects"
+  },
+  {
+    "id": 79,
+    "question": "Which of the following controls electrical access to energised circuits?",
+    "options": [
+      "Tagging",
+      "Use of A locking device",
+      "Warning signage",
+      "Word of mouth"
+    ],
+    "answer": "Use of A locking device",
+    "reference": "Module 1 \u2013 Safe Access Control"
+  },
+  {
+    "id": 81,
+    "question": "If a circuit has a resistance of 46\u202f\u03a9 and a supply of 230\u202fV, what is the current?",
+    "options": [
+      "3.5\u202fA",
+      "4.5\u202fA",
+      "5\u202fA",
+      "6\u202fA"
+    ],
+    "answer": "5\u202fA",
+    "reference": "Module 2 \u2013 Ohm\u2019s Law Calculation"
+  },
+  {
+    "id": 82,
+    "question": "The total resistance of three 60\u202f\u03a9 resistors connected in parallel is:",
+    "options": [
+      "20\u202f\u03a9",
+      "30\u202f\u03a9",
+      "15\u202f\u03a9",
+      "180\u202f\u03a9"
+    ],
+    "answer": "20\u202f\u03a9",
+    "reference": "Module 2 \u2013 Parallel Circuits"
+  },
+  {
+    "id": 83,
+    "question": "A 230\u202fV, 1000\u202fW motor draws how much current?",
+    "options": [
+      "2.3\u202fA",
+      "3.5\u202fA",
+      "4.3\u202fA",
+      "5.5\u202fA"
+    ],
+    "answer": "4.3\u202fA",
+    "reference": "Module 2 \u2013 Power and Energy"
+  },
+  {
+    "id": 84,
+    "question": "A 2\u202fkW heater runs for 5\u202fhours. How much energy is consumed?",
+    "options": [
+      "5\u202fkWh",
+      "7\u202fkWh",
+      "10\u202fkWh",
+      "12\u202fkWh"
+    ],
+    "answer": "10\u202fkWh",
+    "reference": "Module 2 \u2013 Electrical Energy"
+  },
+  {
+    "id": 85,
+    "question": "If a wire is doubled in length and its cross-section remains constant, resistance becomes:",
+    "options": [
+      "Half",
+      "Double",
+      "Same",
+      "Four times"
+    ],
+    "answer": "Double",
+    "reference": "Module 2 \u2013 Resistivity"
+  },
+  {
+    "id": 86,
+    "question": "What is the RMS voltage of a 325\u202fV peak AC supply?",
+    "options": [
+      "115.46\u202fV",
+      "229.81\u202fV",
+      "459.69\u202fV",
+      "300.59\u202fV"
+    ],
+    "answer": "229.81\u202fV",
+    "reference": "Module 2 \u2013 AC Theory"
+  },
+  {
+    "id": 87,
+    "question": "A 5\u202f\u00b5F capacitor and a 10\u202f\u00b5F capacitor in series have a total capacitance of:",
+    "options": [
+      "3.33\u202f\u00b5F",
+      "5\u202f\u00b5F",
+      "7.5\u202f\u00b5F",
+      "15\u202f\u00b5F"
+    ],
+    "answer": "3.33\u202f\u00b5F",
+    "reference": "Module 2 \u2013 Capacitance"
+  },
+  {
+    "id": 88,
+    "question": "What is the reactance of a 0.2\u202fH coil at 50\u202fHz?",
+    "options": [
+      "31.4\u202f\u03a9",
+      "62.8\u202f\u03a9",
+      "100\u202f\u03a9",
+      "314\u202f\u03a9"
+    ],
+    "answer": "62.8\u202f\u03a9",
+    "reference": "Module 2 \u2013 Inductive Reactance"
+  },
+  {
+    "id": 89,
+    "question": "What happens to capacitive reactance when frequency increases?",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "Doubles"
+    ],
+    "answer": "Decreases",
+    "reference": "Module 2 \u2013 Capacitive Reactance"
+  },
+  {
+    "id": 90,
+    "question": "In a 3-phase system, if VL = 400\u202fV, what is the phase voltage?",
+    "options": [
+      "230.94\u202fV",
+      "240.78\u202fV",
+      "250.55\u202fV",
+      "398\u202fV"
+    ],
+    "answer": "230.94\u202fV",
+    "reference": "Module 2 \u2013 Three-Phase Systems"
+  },
+  {
+    "id": 91,
+    "question": "What is the impedance if R = 3\u202f\u03a9 and X = 4\u202f\u03a9?",
+    "options": [
+      "5\u202f\u03a9",
+      "6\u202f\u03a9",
+      "7\u202f\u03a9",
+      "12\u202f\u03a9"
+    ],
+    "answer": "5\u202f\u03a9",
+    "reference": "Module 2 \u2013 Impedance Calculation"
+  },
+  {
+    "id": 92,
+    "question": "A transformer draws 0.5\u202fA at 230\u202fV. What is its input power if power factor = 0.8?",
+    "options": [
+      "46\u202fW",
+      "92\u202fW",
+      "115\u202fW",
+      "230\u202fW"
+    ],
+    "answer": "92\u202fW",
+    "reference": "Module 2 \u2013 Power Factor"
+  },
+  {
+    "id": 93,
+    "question": "Which safety principle aims to remove hazards entirely from the workplace?",
+    "options": [
+      "Isolation",
+      "Elimination",
+      "Substitution",
+      "Engineering control"
+    ],
+    "answer": "Elimination",
+    "reference": "Module 1 \u2013 Hazard Control Hierarchy"
+  },
+  {
+    "id": 94,
+    "question": "Before commencing electrical work, what should be carried out before the isolation of a circuit?",
+    "options": [
+      "Permit to work",
+      "Risk assessment",
+      "Job card",
+      "Inspection report"
+    ],
+    "answer": "Risk assessment",
+    "reference": "Module 1 \u2013 Safe Work Procedures"
+  },
+  {
+    "id": 95,
+    "question": "Who should carry out a risk assessment before work begins?",
+    "options": [
+      "All employees involved with the work",
+      "co-workers elsewhere",
+      "Supervisor only",
+      "Only the site forman"
+    ],
+    "answer": "All employees involved with the work",
+    "reference": "General Knowledge"
+  },
+  {
+    "id": 96,
+    "question": "If an RCD trips repeatedly, what is the first step the electrician should take?",
+    "options": [
+      "Replace the RCD",
+      "Check for earth leakage faults",
+      "Reset immediately",
+      "Increase trip rating"
+    ],
+    "answer": "Check for earth leakage faults",
+    "reference": "Module 1 \u2013 Residual Current Devices"
+  },
+  {
+    "id": 97,
+    "question": "What is the maximum disconnection time for a 230\u202fV circuit under fault conditions in NZ installations?",
+    "options": [
+      "0.1\u202fs",
+      "0.4\u202fs",
+      "1\u202fs",
+      "5\u202fs"
+    ],
+    "answer": "0.4\u202fs",
+    "reference": "Module 1 \u2013 AS/NZS 3000 Disconnection Requirements"
+  },
+  {
+    "id": 98,
+    "question": "Under the Health and Safety at Work Act, who is primarily responsible for ensuring site safety?",
+    "options": [
+      "The apprentice",
+      "The PCBU",
+      "Energy Safety Authority",
+      "The client"
+    ],
+    "answer": "The PCBU",
+    "reference": "Module 1 \u2013 Legal Responsibilities"
+  },
+  {
+    "id": 99,
+    "question": "Which test confirms that isolation has been achieved before maintenance?",
+    "options": [
+      "Insulation test",
+      "Polarity test",
+      "Prove dead test",
+      "Continuity test"
+    ],
+    "answer": "Prove dead test",
+    "reference": "Module 1 \u2013 Isolation Procedures"
+  },
+  {
+    "id": 100,
+    "question": "A fire caused by live wiring should be extinguished using:",
+    "options": [
+      "Foam",
+      "CO\u2082",
+      "Water",
+      "Wet chemical"
+    ],
+    "answer": "CO\u2082",
+    "reference": "Module 1 \u2013 Fire Response"
+  },
+  {
+    "id": 101,
+    "question": "What must be displayed at the point of isolation during electrical work?",
+    "options": [
+      "Warning tag",
+      "Lockout device",
+      "Both tag and lock",
+      "Job card only"
+    ],
+    "answer": "Both tag and lock",
+    "reference": "Module 1 \u2013 Lockout Tagout"
+  },
+  {
+    "id": 102,
+    "question": "When lifting heavy electrical gear, what control measure reduces manual strain?",
+    "options": [
+      "Two-person lift",
+      "Insulated gloves",
+      "Rubber mat",
+      "Working faster"
+    ],
+    "answer": "Two-person lift",
+    "reference": "Module 1 \u2013 Manual Handling"
+  },
+  {
+    "id": 103,
+    "question": "A 230\u202fV circuit draws 8\u202fA. What is its power consumption?",
+    "options": [
+      "460\u202fW",
+      "920\u202fW",
+      "1.84\u202fkW",
+      "2.3\u202fkW"
+    ],
+    "answer": "1.84\u202fkW",
+    "reference": "Module 2 \u2013 Power Formula"
+  },
+  {
+    "id": 104,
+    "question": "In a 3\u202f\u03a9, 4\u202f\u03a9, 5\u202f\u03a9 series circuit with 24\u202fV supply, what is total current?",
+    "options": [
+      "1\u202fA",
+      "2\u202fA",
+      "3\u202fA",
+      "4\u202fA"
+    ],
+    "answer": "2\u202fA",
+    "reference": "Module 2 \u2013 Series Circuits"
+  },
+  {
+    "id": 105,
+    "question": "What is the apparent power if V = 240\u202fV, I = 10\u202fA, and power factor = 0.8?",
+    "options": [
+      "1.92\u202fkVA",
+      "2.0\u202fkVA",
+      "2.4\u202fkVA",
+      "3.0\u202fkVA"
+    ],
+    "answer": "2.4\u202fkVA",
+    "reference": "Module 2 \u2013 AC Power"
+  },
+  {
+    "id": 106,
+    "question": "Doubling both voltage and resistance in a circuit causes current to:",
+    "options": [
+      "Double",
+      "Halve",
+      "Stay constant",
+      "Quarter"
+    ],
+    "answer": "Stay constant",
+    "reference": "Module 2 \u2013 Ohm\u2019s Law"
+  },
+  {
+    "id": 107,
+    "question": "A copper conductor 20\u202fm long has 2\u202f\u03a9 resistance. If length doubles, what is the new resistance?",
+    "options": [
+      "1\u202f\u03a9",
+      "2\u202f\u03a9",
+      "4\u202f\u03a9",
+      "8\u202f\u03a9"
+    ],
+    "answer": "4\u202f\u03a9",
+    "reference": "Module 2 \u2013 Resistivity and Length"
+  },
+  {
+    "id": 108,
+    "question": "The time for one AC cycle at 50\u202fHz is:",
+    "options": [
+      "10\u202fms",
+      "20\u202fms",
+      "50\u202fms",
+      "100\u202fms"
+    ],
+    "answer": "20\u202fms",
+    "reference": "Module 2 \u2013 Frequency and Period"
+  },
+  {
+    "id": 109,
+    "question": "A capacitor stores 0.002\u202fC when charged to 1000\u202fV. Its capacitance is:",
+    "options": [
+      "100\u202f\u00b5F",
+      "2\u202f\u00b5F",
+      "2000\u202f\u00b5F",
+      "20\u202f\u00b5F"
+    ],
+    "answer": "2\u202f\u00b5F",
+    "reference": "Module 2 \u2013 Capacitance Calculation"
+  },
+  {
+    "id": 110,
+    "question": "What current flows through a 500\u202f\u03a9 resistor connected to 250\u202fV DC?",
+    "options": [
+      "0.25\u202fA",
+      "0.5\u202fA",
+      "1\u202fA",
+      "2\u202fA"
+    ],
+    "answer": "0.5\u202fA",
+    "reference": "Module 2 \u2013 DC Circuits"
+  },
+  {
+    "id": 111,
+    "question": "When voltage and current are out of phase in an AC circuit, the circuit is said to have:",
+    "options": [
+      "Unity power factor",
+      "Reactive power",
+      "High efficiency",
+      "DC component"
+    ],
+    "answer": "Reactive power",
+    "reference": "Module 2 \u2013 Power Factor"
+  },
+  {
+    "id": 112,
+    "question": "The impedance of a coil with R\u202f=\u202f6\u202f\u03a9 and XL\u202f=\u202f8\u202f\u03a9 is:",
+    "options": [
+      "10\u202f\u03a9",
+      "12\u202f\u03a9",
+      "14\u202f\u03a9",
+      "20\u202f\u03a9"
+    ],
+    "answer": "10\u202f\u03a9",
+    "reference": "Module 2 \u2013 Impedance Triangles"
+  },
+  {
+    "id": 113,
+    "question": "In a parallel circuit, voltage across each branch is:",
+    "options": [
+      "Divided equally",
+      "Same for all",
+      "Dependent on current",
+      "Zero in one branch"
+    ],
+    "answer": "Same for all",
+    "reference": "Module 2 \u2013 Parallel Circuits"
+  },
+  {
+    "id": 114,
+    "question": "What is the relationship between line and phase currents in a star connection?",
+    "options": [
+      "IL = Iph",
+      "IL = \u221a3 \u00d7 Iph",
+      "IL = Iph / \u221a3",
+      "IL = 3 \u00d7 Iph"
+    ],
+    "answer": "IL = Iph",
+    "reference": "Module 2 \u2013 Three-Phase Theory"
+  },
+  {
+    "id": 115,
+    "question": "Before beginning electrical maintenance, which action ensures the supply cannot be accidentally restored?",
+    "options": [
+      "Turn switch off",
+      "Apply lockout and tag",
+      "Notify supervisor",
+      "Cover outlets"
+    ],
+    "answer": "Apply lockout and tag",
+    "reference": "Module 1 \u2013 Safe Work Procedures"
+  },
+  {
+    "id": 116,
+    "question": "Which device disconnects power if an imbalance occurs between active and neutral conductors?",
+    "options": [
+      "Circuit breaker",
+      "Residual current device",
+      "Fuse",
+      "Thermal overload"
+    ],
+    "answer": "Residual current device",
+    "reference": "Module 1 \u2013 Electrical Protection"
+  },
+  {
+    "id": 117,
+    "question": "What should a worker do immediately after receiving an electric shock?",
+    "options": [
+      "Report and seek medical attention",
+      "Reset the RCD",
+      "Test the circuit",
+      "Continue working"
+    ],
+    "answer": "Report and seek medical attention",
+    "reference": "Module 1 \u2013 Electrical Accidents"
+  },
+  {
+    "id": 118,
+    "question": "The role of a fuse in an electrical circuit is to:",
+    "options": [
+      "Store charge",
+      "Prevent excessive current",
+      "Reduce voltage",
+      "Increase current flow"
+    ],
+    "answer": "Prevent excessive current",
+    "reference": "Module 1 \u2013 Circuit Protection"
+  },
+  {
+    "id": 119,
+    "question": "Which of the following is a form of administrative control?",
+    "options": [
+      "Isolation",
+      "Training and supervision",
+      "Substitution",
+      "PPE"
+    ],
+    "answer": "Training and supervision",
+    "reference": "Module 1 \u2013 Hazard Control Hierarchy"
+  },
+  {
+    "id": 120,
+    "question": "When testing a live circuit, what PPE should be worn?",
+    "options": [
+      "Rubber gloves and safety glasses",
+      "Hearing protection",
+      "Steel toe boots",
+      "Hard hat only"
+    ],
+    "answer": "Rubber gloves and safety glasses",
+    "reference": "Module 1 \u2013 PPE Requirements"
+  },
+  {
+    "id": 121,
+    "question": "Which extinguisher type is suitable for electrical fires?",
+    "options": [
+      "Water",
+      "CO\u2082",
+      "Foam",
+      "Wet chemical"
+    ],
+    "answer": "CO\u2082",
+    "reference": "Module 1 \u2013 Fire Safety"
+  },
+  {
+    "id": 122,
+    "question": "When working near live wiring, a safe ladder material is:",
+    "options": [
+      "Steel",
+      "Hardened Aluminium",
+      "Fibreglass",
+      "Aluminium"
+    ],
+    "answer": "Fibreglass",
+    "reference": "Module 1 \u2013 Work at Heights"
+  },
+  {
+    "id": 123,
+    "question": "Who must authorise the removal of a lockout device?",
+    "options": [
+      "The worker who applied it",
+      "Supervisor",
+      "Any qualified person",
+      "Safety inspector"
+    ],
+    "answer": "The worker who applied it",
+    "reference": "Module 1 \u2013 Isolation Control"
+  },
+  {
+    "id": 124,
+    "question": "What is the main responsibility of a PCBU under NZ law?",
+    "options": [
+      "Provide lunch",
+      "Ensure workplace safety",
+      "Train apprentices",
+      "Inspect installations"
+    ],
+    "answer": "Ensure workplace safety",
+    "reference": "Module 1 \u2013 Health and Safety at Work Act"
+  },
+  {
+    "id": 125,
+    "question": "A 240\u202fV circuit drawing 8\u202fA consumes how much power?",
+    "options": [
+      "480\u202fW",
+      "960\u202fW",
+      "1.92\u202fkW",
+      "2.4\u202fkW"
+    ],
+    "answer": "1.92\u202fkW",
+    "reference": "Module 2 \u2013 Power Calculations"
+  },
+  {
+    "id": 126,
+    "question": "Two resistors of 10\u202f\u03a9 each connected in parallel give a total of:",
+    "options": [
+      "5\u202f\u03a9",
+      "10\u202f\u03a9",
+      "15\u202f\u03a9",
+      "20\u202f\u03a9"
+    ],
+    "answer": "5\u202f\u03a9",
+    "reference": "Module 2 \u2013 Parallel Circuits"
+  },
+  {
+    "id": 127,
+    "question": "A current of 3\u202fA flows through 4\u202f\u03a9. The voltage is:",
+    "options": [
+      "7\u202fV",
+      "9\u202fV",
+      "12\u202fV",
+      "15\u202fV"
+    ],
+    "answer": "12\u202fV",
+    "reference": "Module 2 \u2013 Ohm\u2019s Law"
+  },
+  {
+    "id": 128,
+    "question": "If current is 10\u202fA and resistance is 20\u202f\u03a9, what is the supply voltage?",
+    "options": [
+      "100\u202fV",
+      "150\u202fV",
+      "200\u202fV",
+      "250\u202fV"
+    ],
+    "answer": "200\u202fV",
+    "reference": "Module 2 \u2013 DC Circuits"
+  },
+  {
+    "id": 129,
+    "question": "What happens to inductive reactance when supply frequency doubles?",
+    "options": [
+      "Halves",
+      "Doubles",
+      "Remains the same",
+      "Becomes zero"
+    ],
+    "answer": "Doubles",
+    "reference": "Module 2 \u2013 Inductive Reactance"
+  },
+  {
+    "id": 130,
+    "question": "The RMS value of 100\u202fV peak AC voltage is approximately:",
+    "options": [
+      "50\u202fV",
+      "70.7\u202fV",
+      "90\u202fV",
+      "100\u202fV"
+    ],
+    "answer": "70.7\u202fV",
+    "reference": "Module 2 \u2013 AC Fundamentals"
+  },
+  {
+    "id": 131,
+    "question": "If voltage is constant and resistance increases, current will:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Stay constant",
+      "Reverse direction"
+    ],
+    "answer": "Decrease",
+    "reference": "Module 2 \u2013 Ohm\u2019s Law Application"
+  },
+  {
+    "id": 132,
+    "question": "What is the power consumed by a 230\u202fV load drawing 5\u202fA at 0.8 power factor?",
+    "options": [
+      "920\u202fW",
+      "1\u202fkW",
+      "1.15\u202fkW",
+      "1.5\u202fkW"
+    ],
+    "answer": "920\u202fW",
+    "reference": "Module 2 \u2013 Power Factor"
+  },
+  {
+    "id": 133,
+    "question": "What unit measures electrical energy?",
+    "options": [
+      "Volt",
+      "Watt",
+      "Joule",
+      "Ampere"
+    ],
+    "answer": "Joule",
+    "reference": "Module 2 \u2013 Electrical Units"
+  },
+  {
+    "id": 134,
+    "question": "The resistance of a conductor increases when:",
+    "options": [
+      "Cross-section increases",
+      "Length increases",
+      "Temperature decreases",
+      "Voltage increases"
+    ],
+    "answer": "Length increases",
+    "reference": "Module 2 \u2013 Resistance Properties"
+  },
+  {
+    "id": 135,
+    "question": "What is the correct test instrument for checking circuit polarity before energising a new installation with live mains cables connected to the main terminals of the installation?",
+    "options": [
+      "Continuity tester",
+      "Insulation resistance tester",
+      "Multimeter set to voltage",
+      "Clamp meter"
+    ],
+    "answer": "Multimeter set to voltage",
+    "reference": "Module 3 \u2013 Polarity Testing"
+  },
+  {
+    "id": 136,
+    "question": "Which regulation governs electrical safety in New\u202fZealand domestic installations?",
+    "options": [
+      "Electricity (Safety) Regulations\u202f2010",
+      "NZ Building Code",
+      "Energy Safety Act\u202f2012",
+      "Electrical Workers Registration Act\u202f2000"
+    ],
+    "answer": "Electricity (Safety) Regulations\u202f2010",
+    "reference": "Module 1 \u2013 Legislation"
+  },
+  {
+    "id": 137,
+    "question": "A 230\u202fV,\u202f1000\u202fW heater draws what current?",
+    "options": [
+      "2.3\u202fA",
+      "3.8\u202fA",
+      "4.3\u202fA",
+      "5\u202fA"
+    ],
+    "answer": "4.3\u202fA",
+    "reference": "Module 2 \u2013 Power Calculation"
+  },
+  {
+    "id": 138,
+    "question": "What is the phase voltage in a 400\u202fV three\u2011phase star\u2011connected system?",
+    "options": [
+      "115.47\u202fV",
+      "230.94\u202fV",
+      "398\u202fV",
+      "690\u202fV"
+    ],
+    "answer": "230.94\u202fV",
+    "reference": "Module 2 \u2013 Three\u2011Phase Systems"
+  },
+  {
+    "id": 139,
+    "question": "What is the typical trip current for a Type\u202fA\u202f30\u202fmA\u202fRCD?",
+    "options": [
+      "10\u202fmA",
+      "20\u202fmA",
+      "30\u202fmA",
+      "100\u202fmA"
+    ],
+    "answer": "30\u202fmA",
+    "reference": "Module 6 \u2013 Residual Current Devices"
+  },
+  {
+    "id": 140,
+    "question": "A motor rated at\u202f2.2\u202fkW\u202foperates at\u202f230\u202fV\u202fwith a power factor of\u202f0.8. What is its approximate current?",
+    "options": [
+      "8\u202fA",
+      "10\u202fA",
+      "12\u202fA",
+      "15\u202fA"
+    ],
+    "answer": "12\u202fA",
+    "reference": "Module 7 \u2013 Motor Calculations"
+  },
+  {
+    "id": 141,
+    "question": "Which test ensures that exposed conductive parts are effectively connected to the main earth?",
+    "options": [
+      "Polarity test of supply cables",
+      "Continuity of equipotential bonding conductors",
+      "Insulation test from installation wiring to earth",
+      "earth fault-Loop impedance test"
+    ],
+    "answer": "Continuity of equipotential bonding conductors",
+    "reference": "Module 3 \u2013 Continuity Testing"
+  },
+  {
+    "id": 142,
+    "question": "In an AC circuit, voltage leads current by\u202f90\u00b0\u202fin a:",
+    "options": [
+      "Purely inductive load",
+      "Purely resistive load",
+      "Purely capacitive load",
+      "Balanced three\u2011phase system"
+    ],
+    "answer": "Purely inductive load",
+    "reference": "Module 2 \u2013 Phase Relationships"
+  },
+  {
+    "id": 143,
+    "question": "What is the correct colour for a neutral conductor in single\u2011phase fixed wiring?",
+    "options": [
+      "Brown",
+      "Black",
+      "Blue",
+      "Green/Yellow"
+    ],
+    "answer": "Black",
+    "reference": "Module 2 \u2013 Conductor Identification"
+  },
+  {
+    "id": 144,
+    "question": "What must be done before carrying out a continuity test on a circuit?",
+    "options": [
+      "Connect loads",
+      "Energise the circuit",
+      "Isolate and prove dead",
+      "Increase the voltage"
+    ],
+    "answer": "Isolate and prove dead",
+    "reference": "Module 3 \u2013 Safe Testing Practice"
+  },
+  {
+    "id": 145,
+    "question": "The transformer principle operates on the interaction between:",
+    "options": [
+      "Resistance and voltage",
+      "Current and heat",
+      "Magnetic flux and induced voltage",
+      "Capacitance and frequency"
+    ],
+    "answer": "Magnetic flux and induced voltage",
+    "reference": "Module 4 \u2013 Transformer Theory"
+  },
+  {
+    "id": 146,
+    "question": "Which of the following represents the relationship between power, voltage and current?",
+    "options": [
+      "P = V/I",
+      "P = I\u00b2/R",
+      "P = V \u00d7 I",
+      "P = R/I"
+    ],
+    "answer": "P = V \u00d7 I",
+    "reference": "Module 2 \u2013 Power and Energy"
+  },
+  {
+    "id": 148,
+    "question": "When measuring voltage, the meter should be connected:",
+    "options": [
+      "In series with the circuit",
+      "In parallel with the load",
+      "Across the switch only",
+      "In place of the load"
+    ],
+    "answer": "In parallel with the load",
+    "reference": "Module 3 \u2013 Measurement Techniques"
+  },
+  {
+    "id": 149,
+    "question": "What type of current flows in one direction only?",
+    "options": [
+      "Alternating current",
+      "Direct current",
+      "Pulsating current",
+      "Harmonic current"
+    ],
+    "answer": "Direct current",
+    "reference": "Module 2 \u2013 Basic Electrical Theory"
+  },
+  {
+    "id": 150,
+    "question": "If a 10\u202f\u03a9 resistor carries 3\u202fA, what is the voltage across it?",
+    "options": [
+      "10\u202fV",
+      "20\u202fV",
+      "30\u202fV",
+      "40\u202fV"
+    ],
+    "answer": "30\u202fV",
+    "reference": "Module 2 \u2013 Ohm\u2019s Law Application"
+  },
+  {
+    "id": 151,
+    "question": "Which device is used to limit current in a circuit under fault conditions?",
+    "options": [
+      "Transformer",
+      "Contactor",
+      "Fuse",
+      "Relay"
+    ],
+    "answer": "Fuse",
+    "reference": "Module 6 \u2013 Over\u2011current Protection"
+  },
+  {
+    "id": 152,
+    "question": "What is the total resistance of two 20\u202f\u03a9 resistors connected in series?",
+    "options": [
+      "10\u202f\u03a9",
+      "20\u202f\u03a9",
+      "30\u202f\u03a9",
+      "40\u202f\u03a9"
+    ],
+    "answer": "40\u202f\u03a9",
+    "reference": "Module 2 \u2013 Series Circuits"
+  },
+  {
+    "id": 153,
+    "question": "Which of the following tests verifies that circuit conductors are correctly identified and connected?",
+    "options": [
+      "Insulation resistance",
+      "Polarity",
+      "Earth continuity",
+      "Voltage drop"
+    ],
+    "answer": "Polarity",
+    "reference": "Module 3 \u2013 Installation Testing"
+  },
+  {
+    "id": 154,
+    "question": "What is the primary function of a circuit breaker?",
+    "options": [
+      "To regulate voltage",
+      "To prevent short circuits and overloads",
+      "To earth exposed parts",
+      "To measure current"
+    ],
+    "answer": "To prevent short circuits and overloads",
+    "reference": "Module 6 \u2013 Circuit Protection Devices"
+  },
+  {
+    "id": 155,
+    "question": "Which document defines the rules for electrical installations in New\u202fZealand?",
+    "options": [
+      "AS/NZS\u202f3760",
+      "AS/NZS\u202f3000",
+      "Electricity Act\u202f1992",
+      "Health and Safety at Work\u202f2015"
+    ],
+    "answer": "AS/NZS\u202f3000",
+    "reference": "Module 1 \u2013 Legislation and Safety"
+  },
+  {
+    "id": 156,
+    "question": "What is the primary hazard of working on live electrical equipment?",
+    "options": [
+      "Tripping",
+      "Electric shock",
+      "Noise exposure",
+      "Eye strain"
+    ],
+    "answer": "Electric shock",
+    "reference": "Module 1 \u2013 Electrical Safety"
+  },
+  {
+    "id": 157,
+    "question": "A 230\u202fV\u202fsupply provides 10\u202fA\u202fof current. What is the total power consumed?",
+    "options": [
+      "2.3\u202fkW",
+      "1.8\u202fkW",
+      "1.2\u202fkW",
+      "3\u202fkW"
+    ],
+    "answer": "2.3\u202fkW",
+    "reference": "Module 2 \u2013 Power and Energy"
+  },
+  {
+    "id": 158,
+    "question": "What property of a material determines how easily current can pass through it?",
+    "options": [
+      "Conductivity",
+      "Elasticity",
+      "Permeability",
+      "Ductility"
+    ],
+    "answer": "Conductivity",
+    "reference": "Module 2 \u2013 Electrical Properties"
+  },
+  {
+    "id": 159,
+    "question": "What type of current changes direction regularly with time?",
+    "options": [
+      "Direct current",
+      "Alternating current",
+      "Ripple current",
+      "Transient current"
+    ],
+    "answer": "Alternating current",
+    "reference": "Module 2 \u2013 AC and DC Theory"
+  },
+  {
+    "id": 160,
+    "question": "A circuit contains a 12\u202f\u03a9\u202fresistor and 6\u202f\u03a9\u202fresistor in parallel. What is the total resistance?",
+    "options": [
+      "4\u202f\u03a9",
+      "6\u202f\u03a9",
+      "8\u202f\u03a9",
+      "12\u202f\u03a9"
+    ],
+    "answer": "4\u202f\u03a9",
+    "reference": "Module 2 \u2013 Parallel Circuits"
+  },
+  {
+    "id": 161,
+    "question": "Before carrying out insulation resistance testing, what must you always do?",
+    "options": [
+      "Isolate and discharge the circuit",
+      "Connect the load",
+      "Set the meter to AC volts",
+      "Ensure supply is on"
+    ],
+    "answer": "Isolate and discharge the circuit",
+    "reference": "Module 3 \u2013 Testing Procedures"
+  },
+  {
+    "id": 162,
+    "question": "Which test verifies that a protective conductor has a low-resistance path to earth?",
+    "options": [
+      "Insulation resistance test",
+      "Continuity of protective conductor test",
+      "Polarity test",
+      "Voltage drop test"
+    ],
+    "answer": "Continuity of protective conductor test",
+    "reference": "Module 3 \u2013 Earthing Tests"
+  },
+  {
+    "id": 163,
+    "question": "In a step-down transformer, which winding has the greater number of turns?",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Neutral",
+      "Tertiary"
+    ],
+    "answer": "Primary",
+    "reference": "Module 4 \u2013 Transformer Basics"
+  },
+  {
+    "id": 164,
+    "question": "If a transformer has 400\u202fturns on the primary and\u202f100\u202fturns on the secondary with\u202f230\u202fV\u202finput, what is the secondary voltage?",
+    "options": [
+      "115\u202fV",
+      "57.5\u202fV",
+      "230\u202fV",
+      "460\u202fV"
+    ],
+    "answer": "57.5\u202fV",
+    "reference": "Module 4 \u2013 Transformer Calculations"
+  },
+  {
+    "id": 165,
+    "question": "What device converts alternating current to direct current?",
+    "options": [
+      "Rectifier",
+      "Inverter",
+      "Transformer",
+      "Alternator"
+    ],
+    "answer": "Rectifier",
+    "reference": "Module 5 \u2013 Electronics Fundamentals"
+  },
+  {
+    "id": 166,
+    "question": "Which component is commonly used to smooth the output of a DC rectifier circuit?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Diode"
+    ],
+    "answer": "Capacitor",
+    "reference": "Module 5 \u2013 Power Supplies"
+  },
+  {
+    "id": 167,
+    "question": "What is the phase relationship between voltage and current in a purely resistive AC circuit?",
+    "options": [
+      "Voltage leads current by\u202f90\u00b0",
+      "Current leads voltage by\u202f90\u00b0",
+      "They are in phase",
+      "They are out of phase by\u202f45\u00b0"
+    ],
+    "answer": "They are in phase",
+    "reference": "Module 5 \u2013 AC Theory"
+  },
+  {
+    "id": 168,
+    "question": "What is the purpose of the MEN link in a switchboard?",
+    "options": [
+      "Connects neutral and earth together",
+      "Connects two phases",
+      "Connects supply and load",
+      "Connects live to earth"
+    ],
+    "answer": "Connects neutral and earth together",
+    "reference": "Module 6 \u2013 Earthing Systems"
+  },
+  {
+    "id": 169,
+    "question": "Which device disconnects the circuit when a current imbalance between active and neutral is detected?",
+    "options": [
+      "Circuit breaker",
+      "Fuse",
+      "RCD",
+      "Relay"
+    ],
+    "answer": "RCD",
+    "reference": "Module 6 \u2013 Residual Current Devices"
+  },
+  {
+    "id": 170,
+    "question": "A 230\u202fV\u202fsingle-phase motor draws\u202f5\u202fA\u202fat\u202f0.8\u202fpower factor. What is the real power?",
+    "options": [
+      "690\u202fW",
+      "920\u202fW",
+      "1050\u202fW",
+      "1150\u202fW"
+    ],
+    "answer": "920\u202fW",
+    "reference": "Module 7 \u2013 Motor Calculations"
+  },
+  {
+    "id": 171,
+    "question": "Which type of motor can operate on both AC\u202fand\u202fDC supply?",
+    "options": [
+      "Shaded pole motor",
+      "Universal motor",
+      "Induction motor",
+      "Capacitor start motor"
+    ],
+    "answer": "Universal motor",
+    "reference": "Module 7 \u2013 Motor Types"
+  },
+  {
+    "id": 172,
+    "question": "In a DOL starter, what is the purpose of the overload relay?",
+    "options": [
+      "To disconnect supply if current exceeds a set level",
+      "To control motor speed",
+      "To start the motor gradually",
+      "To reverse rotation direction"
+    ],
+    "answer": "To disconnect supply if current exceeds a set level",
+    "reference": "Module 7 \u2013 Motor Control Circuits"
+  },
+  {
+    "id": 173,
+    "question": "If a 4\u2011pole motor runs at\u202f1450\u202frpm\u202fon\u202f50\u202fHz, what is its approximate slip percentage?",
+    "options": [
+      "2.6%",
+      "3.3%",
+      "6.1%",
+      "8%"
+    ],
+    "answer": "3.3%",
+    "reference": "Module 8 \u2013 Motor Slip Calculation"
+  },
+  {
+    "id": 174,
+    "question": "Increasing the frequency supplied to a motor will cause its speed to:",
+    "options": [
+      "Decrease",
+      "Increase",
+      "Stay constant",
+      "Reverse direction"
+    ],
+    "answer": "Increase",
+    "reference": "Module 8 \u2013 AC Motor Characteristics"
+  },
+  {
+    "id": 175,
+    "question": "What is the primary purpose of the prove\u2013test\u2013prove method before electrical work?",
+    "options": [
+      "To check circuit continuity",
+      "To ensure the test instrument works correctly",
+      "To locate the phase conductor",
+      "To measure insulation resistance"
+    ],
+    "answer": "To ensure the test instrument works correctly",
+    "reference": "Module 1 \u2013 Safe Work Practices"
+  },
+  {
+    "id": 176,
+    "question": "When using a ladder to access electrical equipment, what is the correct ratio between the base distance and height?",
+    "options": [
+      "1:4",
+      "2:1",
+      "4:1",
+      "6:2"
+    ],
+    "answer": "1:4",
+    "reference": "Module 1 \u2013 Work at Heights"
+  },
+  {
+    "id": 177,
+    "question": "The unit of resistance is measured in:",
+    "options": [
+      "Amperes",
+      "Volts",
+      "Ohms",
+      "Watts"
+    ],
+    "answer": "Ohms",
+    "reference": "Module 2 \u2013 Electrical Units"
+  },
+  {
+    "id": 178,
+    "question": "A 240\u202fV circuit with a total resistance of\u202f80\u202f\u03a9 draws what current?",
+    "options": [
+      "2\u202fA",
+      "3\u202fA",
+      "4\u202fA",
+      "5\u202fA"
+    ],
+    "answer": "3\u202fA",
+    "reference": "Module 2 \u2013 Ohm\u2019s Law Application"
+  },
+  {
+    "id": 179,
+    "question": "If a heater rated at\u202f2\u202fkW operates for\u202f2\u202fhours, how much energy is used?",
+    "options": [
+      "1\u202fkWh",
+      "2\u202fkWh",
+      "3\u202fkWh",
+      "4\u202fkWh"
+    ],
+    "answer": "4\u202fkWh",
+    "reference": "Module 2 \u2013 Electrical Energy"
+  },
+  {
+    "id": 180,
+    "question": "What device converts alternating current to direct current?",
+    "options": [
+      "Inverter",
+      "Rectifier",
+      "Transformer",
+      "Capacitor"
+    ],
+    "answer": "Rectifier",
+    "reference": "Module 5 \u2013 Rectification"
+  },
+  {
+    "id": 181,
+    "question": "What is the correct colour for the active conductor in single\u2011phase appliance wiring?",
+    "options": [
+      "Light Blue",
+      "Brown",
+      "Green/Yellow",
+      "Black"
+    ],
+    "answer": "Brown",
+    "reference": "Module 2 \u2013 Cable Identification"
+  },
+  {
+    "id": 182,
+    "question": "If a 230\u202fV\u202fsupply delivers\u202f5\u202fA\u202fat a power factor of\u202f0.8, what is the True power consumed?",
+    "options": [
+      "920\u202fW",
+      "1035\u202fW",
+      "1150\u202fW",
+      "1200\u202fW"
+    ],
+    "answer": "920\u202fW",
+    "reference": "Module 2 \u2013 Power Factor"
+  },
+  {
+    "id": 183,
+    "question": "What type of transformer connection has one winding connected to both the primary and secondary?",
+    "options": [
+      "Step\u2011up transformer",
+      "Step\u2011down transformer",
+      "Auto transformer",
+      "Isolation transformer"
+    ],
+    "answer": "Auto transformer",
+    "reference": "Module 4 \u2013 Transformer Types"
+  },
+  {
+    "id": 184,
+    "question": "A circuit consists of\u202f10\u202f\u03a9\u202fand\u202f20\u202f\u03a9\u202fresistors connected in series. What is the total resistance?",
+    "options": [
+      "10\u202f\u03a9",
+      "15\u202f\u03a9",
+      "20\u202f\u03a9",
+      "30\u202f\u03a9"
+    ],
+    "answer": "30\u202f\u03a9",
+    "reference": "Module 2 \u2013 Series Circuits"
+  },
+  {
+    "id": 185,
+    "question": "In a parallel circuit, the voltage across each branch is:",
+    "options": [
+      "Different",
+      "Zero",
+      "Equal",
+      "Dependent on current"
+    ],
+    "answer": "Equal",
+    "reference": "Module 2 \u2013 Parallel Circuits"
+  },
+  {
+    "id": 186,
+    "question": "What is the main function of an RCD in an electrical installation?",
+    "options": [
+      "To limit voltage",
+      "To disconnect supply in case of imbalance",
+      "To reduce current flow",
+      "To measure insulation resistance"
+    ],
+    "answer": "To disconnect supply in case of imbalance",
+    "reference": "Module 6 \u2013 Residual Current Devices"
+  },
+  {
+    "id": 187,
+    "question": "The correct action after receiving a minor electric shock is to:",
+    "options": [
+      "Continue working",
+      "Reset the RCD",
+      "Seek medical attention and report the incident",
+      "Check the fuse rating"
+    ],
+    "answer": "Seek medical attention and report the incident",
+    "reference": "Module 1 \u2013 Electrical Accidents"
+  },
+  {
+    "id": 188,
+    "question": "Which component in a DC power supply smooths the rectified output?",
+    "options": [
+      "Transistor",
+      "Capacitor",
+      "Silicon BJT",
+      "Germanium BJT"
+    ],
+    "answer": "Capacitor",
+    "reference": "Module 5 \u2013 Power Supplies"
+  },
+  {
+    "id": 189,
+    "question": "Which formula represents electrical power in watts?",
+    "options": [
+      "P = V/I",
+      "P = V \u00d7 I",
+      "P = I\u00b2/R",
+      "P = R/I"
+    ],
+    "answer": "P = V \u00d7 I",
+    "reference": "Module 2 \u2013 Electrical Power"
+  },
+  {
+    "id": 190,
+    "question": "A\u202f3\u2011phase\u202fmotor running on\u202f50\u202fHz\u202fhas\u202f4\u202fpoles. What is its synchronous speed?",
+    "options": [
+      "750\u202frpm",
+      "1000\u202frpm",
+      "1500\u202frpm",
+      "3000\u202frpm"
+    ],
+    "answer": "1500\u202frpm",
+    "reference": "Module 7 \u2013 Motor Theory"
+  },
+  {
+    "id": 191,
+    "question": "In a DOL starter, what does the overload relay protect against?",
+    "options": [
+      "Voltage spikes",
+      "Overcurrent conditions",
+      "Phase imbalance",
+      "Mechanical faults"
+    ],
+    "answer": "Overcurrent conditions",
+    "reference": "Module 7 \u2013 Motor Protection"
+  },
+  {
+    "id": 192,
+    "question": "What is the total opposition to current flow in an AC circuit called?",
+    "options": [
+      "Resistance",
+      "Reactance",
+      "Impedance",
+      "Admittance"
+    ],
+    "answer": "Impedance",
+    "reference": "Module 5 \u2013 AC Circuits"
+  },
+  {
+    "id": 193,
+    "question": "What term describes the percentage difference between synchronous and actual speed in a motor?",
+    "options": [
+      "Efficiency",
+      "Slip",
+      "Lag",
+      "Power factor"
+    ],
+    "answer": "Slip",
+    "reference": "Module 8 \u2013 Motor Performance"
+  },
+  {
+    "id": 194,
+    "question": "A fuse rated below the circuit current will:",
+    "options": [
+      "Operate too quickly",
+      "Fail to operate",
+      "Cause voltage imbalance",
+      "Protect correctly"
+    ],
+    "answer": "Operate too quickly",
+    "reference": "Module 9 \u2013 Circuit Protection"
+  },
+  {
+    "id": 195,
+    "question": "What is the first step when isolating electrical equipment for maintenance?",
+    "options": [
+      "Test for voltage",
+      "Apply lockout",
+      "Identify and isolate the correct supply",
+      "Tag the equipment"
+    ],
+    "answer": "Identify and isolate the correct supply",
+    "reference": "Module 1 \u2013 Isolation Procedures"
+  },
+  {
+    "id": 196,
+    "question": "When using a test instrument, what must be confirmed before and after use?",
+    "options": [
+      "The fuse rating",
+      "The meter battery level",
+      "The instrument is functioning correctly",
+      "The probe colour coding"
+    ],
+    "answer": "The instrument is functioning correctly",
+    "reference": "Module 1 \u2013 Safe Testing Practice"
+  },
+  {
+    "id": 197,
+    "question": "What is the potential difference between two points in a circuit called?",
+    "options": [
+      "Resistance",
+      "Current",
+      "Voltage",
+      "Power"
+    ],
+    "answer": "Voltage",
+    "reference": "Module 2 \u2013 Electrical Quantities"
+  },
+  {
+    "id": 198,
+    "question": "If a 230\u202fV heater draws\u202f5\u202fA, what is its resistance?",
+    "options": [
+      "23\u202f\u03a9",
+      "36\u202f\u03a9",
+      "46\u202f\u03a9",
+      "52\u202f\u03a9"
+    ],
+    "answer": "46\u202f\u03a9",
+    "reference": "Module 2 \u2013 Ohm\u2019s Law"
+  },
+  {
+    "id": 199,
+    "question": "In a series circuit, what happens to total resistance when another resistor is added?",
+    "options": [
+      "It decreases",
+      "It increases",
+      "It remains constant",
+      "It becomes zero"
+    ],
+    "answer": "It increases",
+    "reference": "Module 2 \u2013 Series Circuits"
+  },
+  {
+    "id": 200,
+    "question": "Which component opposes changes in current flow due to it's storage of energy in a magnetic field?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Diode"
+    ],
+    "answer": "Inductor",
+    "reference": "Module 5 \u2013 Inductance"
+  },
+  {
+    "id": 201,
+    "question": "The induced voltage in a transformer is proportional to:",
+    "options": [
+      "The load current",
+      "The number of turns and magnetic flux",
+      "The conductor diameter",
+      "The frequency only"
+    ],
+    "answer": "The number of turns and magnetic flux",
+    "reference": "Module 4 \u2013 Transformer Theory"
+  },
+  {
+    "id": 202,
+    "question": "What is the turns ratio of a transformer with 400\u202fturns on the primary and\u202f100\u202fon the secondary?",
+    "options": [
+      "1:4",
+      "2:1",
+      "3:2",
+      "4:1"
+    ],
+    "answer": "4:1",
+    "reference": "Module 4 \u2013 Transformer Calculations"
+  },
+  {
+    "id": 203,
+    "question": "The function of the primary winding in a transformer is to:",
+    "options": [
+      "Deliver current to the load",
+      "Receive energy from the supply",
+      "Rectify the voltage",
+      "Store magnetic energy permanently"
+    ],
+    "answer": "Receive energy from the supply",
+    "reference": "Module 4 \u2013 Transformer Function"
+  },
+  {
+    "id": 204,
+    "question": "Which test confirms that conductors are correctly connected to switches and sockets?",
+    "options": [
+      "Insulation resistance test",
+      "Polarity test",
+      "Earth continuity test",
+      "Loop impedance test"
+    ],
+    "answer": "Polarity test",
+    "reference": "Module 3 \u2013 Testing Procedures"
+  },
+  {
+    "id": 205,
+    "question": "What is the typical insulation resistance value required for a 230\u202fV circuit?",
+    "options": [
+      "0.1\u202fM\u03a9",
+      "0.5\u202fM\u03a9",
+      "1\u202fM\u03a9",
+      "10\u202fM\u03a9"
+    ],
+    "answer": "1\u202fM\u03a9",
+    "reference": "Module 3 \u2013 Insulation Testing"
+  },
+  {
+    "id": 206,
+    "question": "What is the relationship between current, voltage, and resistance?",
+    "options": [
+      "I = V/R",
+      "I = R/V",
+      "I = V \u00d7 R",
+      "I = P/V"
+    ],
+    "answer": "I = V/R",
+    "reference": "Module 2 \u2013 Ohm\u2019s Law"
+  },
+  {
+    "id": 207,
+    "question": "A 230\u202fV single\u2011phase motor draws\u202f4\u202fA\u202fat\u202f0.8\u202fpower factor. What is its power?",
+    "options": [
+      "640\u202fW",
+      "736\u202fW",
+      "800\u202fW",
+      "920\u202fW"
+    ],
+    "answer": "736\u202fW",
+    "reference": "Module 7 \u2013 Power Factor"
+  },
+  {
+    "id": 208,
+    "question": "What is the main purpose of the overload relay in a DOL starter?",
+    "options": [
+      "To start the motor",
+      "To protect against excessive current",
+      "To reverse rotation",
+      "To maintain constant speed"
+    ],
+    "answer": "To protect against excessive current",
+    "reference": "Module 7 \u2013 Motor Starters"
+  },
+  {
+    "id": 209,
+    "question": "What is the synchronous speed of a 2\u2011pole motor operating at\u202f50\u202fHz?",
+    "options": [
+      "1000\u202frpm",
+      "1500\u202frpm",
+      "3000\u202frpm",
+      "3600\u202frpm"
+    ],
+    "answer": "3000\u202frpm",
+    "reference": "Module 8 \u2013 Motor Theory"
+  },
+  {
+    "id": 210,
+    "question": "Which device disconnects power when a fault current flows to earth?",
+    "options": [
+      "Circuit breaker",
+      "RCD",
+      "Fuse",
+      "Contactor"
+    ],
+    "answer": "RCD",
+    "reference": "Module 6 \u2013 Protection Devices"
+  },
+  {
+    "id": 211,
+    "question": "The purpose of earthing metal enclosures is to:",
+    "options": [
+      "Reduce supply voltage",
+      "Provide a path for fault current",
+      "Prevent circuit overload",
+      "Increase insulation resistance"
+    ],
+    "answer": "Provide a path for fault current",
+    "reference": "Module 6 \u2013 Earthing Systems"
+  },
+  {
+    "id": 212,
+    "question": "What is the effect of increasing supply frequency on an inductive circuit?",
+    "options": [
+      "Reactance decreases",
+      "Reactance increases",
+      "Power factor improves",
+      "Resistance increases"
+    ],
+    "answer": "Reactance increases",
+    "reference": "Module 5 \u2013 AC Circuits"
+  },
+  {
+    "id": 213,
+    "question": "Which test ensures that a protective device will disconnect within the required time during a fault?",
+    "options": [
+      "Earth continuity",
+      "Fault\u2011loop impedance",
+      "Polarity",
+      "Insulation resistance"
+    ],
+    "answer": "Fault\u2011loop impedance",
+    "reference": "Module 3 \u2013 Fault Testing"
+  },
+  {
+    "id": 214,
+    "question": "A\u202f240\u202fV,\u202f60\u202fW\u202flamp is connected to supply. What current does it draw?",
+    "options": [
+      "0.1\u202fA",
+      "0.25\u202fA",
+      "0.5\u202fA",
+      "1\u202fA"
+    ],
+    "answer": "0.25\u202fA",
+    "reference": "Module 2 \u2013 Power Calculations"
+  },
+  {
+    "id": 215,
+    "question": "Which statement best describes a secondary cell?",
+    "options": [
+      "Single-use cell",
+      "Rechargeable cell",
+      "Cannot store electrical energy",
+      "Used only in AC circuits"
+    ],
+    "answer": "Rechargeable cell",
+    "reference": "Cells and Batteries"
+  },
+  {
+    "id": 216,
+    "question": "When appliance testing a toaster to AS/NZS 3760, what is the minimum acceptable insulation resistance?",
+    "options": [
+      "100 kΩ",
+      "1 MΩ",
+      "10 MΩ",
+      "100 MΩ"
+    ],
+    "answer": "1 MΩ",
+    "reference": "Appliance Testing – AS/NZS 3760"
+  },
+  {
+    "id": 217,
+    "question": "Before starting alterations inside a switchboard at a builder's request, what should an apprentice do first?",
+    "options": [
+      "Begin the job immediately",
+      "Ask the builder for more details",
+      "Talk to your supervisor first",
+      "Delegate the task to another apprentice"
+    ],
+    "answer": "Talk to your supervisor first",
+    "reference": "Workplace Safety – Supervision"
+  },
+  {
+    "id": 218,
+    "question": "After an incident caused by failing to re-test isolation, who is at fault?",
+    "options": [
+      "Both The apprentice and the supervisor",
+      "The supervisor only",
+      "The employer",
+      "Another tradesperson on site"
+    ],
+    "answer": "Both The apprentice and the supervisor",
+    "reference": "Safe Isolation – Responsibilities"
+  },
+  {
+    "id": 219,
+    "question": "How long does an EWRB trainee licence remain valid?",
+    "options": [
+      "1 year",
+      "3 years",
+      "4 years",
+      "No expiry"
+    ],
+    "answer": "4 years",
+    "reference": "NZ Licensing – EWRB Trainee"
+  },
+  {
+    "id": 220,
+    "question": "In AC circuits, what does impedance represent?",
+    "options": [
+      "Only the resistance in a DC circuit",
+      "The total opposition to AC due to resistance and reactance",
+      "Only the inductive reactance of a coil",
+      "The ratio of voltage to current in DC"
+    ],
+    "answer": "The total opposition to AC due to resistance and reactance",
+    "reference": "AC Theory – Impedance"
+  },
+  {
+    "id": 221,
+    "question": "What happens when a diode exceeds its forward threshold voltage?",
+    "options": [
+      "It begins to conduct current",
+      "It permanently fails open-circuit",
+      "It reverses its polarity",
+      "It blocks all current in either direction"
+    ],
+    "answer": "It begins to conduct current",
+    "reference": "Semiconductors – Diodes"
+  },
+  {
+    "id": 222,
+    "question": "To correct a leading power factor toward unity, which component would you add?",
+    "options": [
+      "Inductors",
+      "Capacitors",
+      "Resistors",
+      "Transformers"
+    ],
+    "answer": "Inductors",
+    "reference": "Power Factor – Correction"
+  },
+  {
+    "id": 223,
+    "question": "What is the synchronous speed of a 4-pole, 50 Hz induction motor (no slip)?",
+    "options": [
+      "750 rpm",
+      "1000 rpm",
+      "1500 rpm",
+      "3000 rpm"
+    ],
+    "answer": "1500 rpm",
+    "reference": "AC Machines – Synchronous Speed"
+  },
+  {
+    "id": 224,
+    "question": "For an ideal transformer with 230 V supply drawing 0.7 A on the primary, what is the minimum VA rating required?",
+    "options": [
+      "115 VA",
+      "161 VA",
+      "230 VA",
+      "322 VA"
+    ],
+    "answer": "161 VA",
+    "reference": "Transformers – Ratings"
+  },
+  {
+    "id": 225,
+    "question": "Two resistors of 100 Ω and 220 Ω are in series across 12 V. What is the circuit current?",
+    "options": [
+      "18.8 mA",
+      "37.5 mA",
+      "54.5 mA",
+      "120 mA"
+    ],
+    "answer": "37.5 mA",
+    "reference": "Ω's Law and Resistors"
+  },
+  {
+    "id": 226,
+    "question": "What is the equivalent resistance of 100 Ω in parallel with 300 Ω?",
+    "options": [
+      "50 Ω",
+      "75 Ω",
+      "100 Ω",
+      "150 Ω"
+    ],
+    "answer": "75 Ω",
+    "reference": "Ω's Law and Resistors"
+  },
+  {
+    "id": 227,
+    "question": "A 12 V source is applied across 2 kΩ in series with 1 kΩ. What is the voltage across the 1 kΩ resistor?",
+    "options": [
+      "2 V",
+      "4 V",
+      "6 V",
+      "8 V"
+    ],
+    "answer": "4 V",
+    "reference": "Voltage Divider"
+  },
+  {
+    "id": 228,
+    "question": "A 47 Ω resistor carries 0.5 A. What power does it dissipate?",
+    "options": [
+      "5.9 W",
+      "9.4 W",
+      "11.8 W",
+      "23.5 W"
+    ],
+    "answer": "11.8 W",
+    "reference": "Power in Resistors"
+  },
+  {
+    "id": 229,
+    "question": "You have 5 V supply and an LED with 2 V drop at 20 mA. What series resistor value is required?",
+    "options": [
+      "100 Ω",
+      "150 Ω",
+      "220 Ω",
+      "330 Ω"
+    ],
+    "answer": "150 Ω",
+    "reference": "LED Current Limiting"
+  },
+  {
+    "id": 230,
+    "question": "What is the equivalent resistance of 220 Ω in parallel with 330 Ω?",
+    "options": [
+      "88 Ω",
+      "132 Ω",
+      "275 Ω",
+      "550 Ω"
+    ],
+    "answer": "132 Ω",
+    "reference": "Parallel Resistances"
+  },
+  {
+    "id": 231,
+    "question": "A 9 V battery feeds three 1 kΩ resistors in series. What is the current?",
+    "options": [
+      "1 mA",
+      "3 mA",
+      "9 mA",
+      "27 mA"
+    ],
+    "answer": "3 mA",
+    "reference": "Ω's Law"
+  },
+  {
+    "id": 232,
+    "question": "Find the total resistance of 100 Ω in series with (200 Ω ∥ 300 Ω).",
+    "options": [
+      "180 Ω",
+      "220 Ω",
+      "250 Ω",
+      "300 Ω"
+    ],
+    "answer": "220 Ω",
+    "reference": "Series–Parallel Networks"
+  },
+  {
+    "id": 233,
+    "question": "A 12 V supply is connected to 100 Ω and 150 Ω in parallel. What is the total current drawn?",
+    "options": [
+      "120 mA",
+      "160 mA",
+      "200 mA",
+      "240 mA"
+    ],
+    "answer": "200 mA",
+    "reference": "Ω's Law and Parallel"
+  },
+  {
+    "id": 234,
+    "question": "Which resistor value will dissipate 0.25 W at 5 V (assuming ideal resistor)?",
+    "options": [
+      "50 Ω",
+      "100 Ω",
+      "200 Ω",
+      "500 Ω"
+    ],
+    "answer": "100 Ω",
+    "reference": "Power and Resistance"
+  },
+  {
+    "id": 235,
+    "question": "A 230 V, 10 A load has power factor 0.8 lagging. What is the real power?",
+    "options": [
+      "1.84 kW",
+      "2.30 kW",
+      "8.00 kW",
+      "2.88 kW"
+    ],
+    "answer": "1.84 kW",
+    "reference": "AC Theory and Power Factor"
+  },
+  {
+    "id": 236,
+    "question": "A load has 1.5 kW real power and 2.0 kVA apparent power. What is the power factor?",
+    "options": [
+      "0.60",
+      "0.75",
+      "0.80",
+      "0.95"
+    ],
+    "answer": "0.75",
+    "reference": "AC Theory and Power Factor"
+  },
+  {
+    "id": 237,
+    "question": "A 2 kW motor on 230 V draws 12 A. What is the approximate power factor?",
+    "options": [
+      "0.58",
+      "0.66",
+      "0.72",
+      "0.88"
+    ],
+    "answer": "0.72",
+    "reference": "AC Theory and Power Factor"
+  },
+  {
+    "id": 238,
+    "question": "In a purely inductive circuit, current is related to voltage how?",
+    "options": [
+      "Leads voltage by 90°",
+      "Lags voltage by 90°",
+      "In phase with voltage",
+      "Leads voltage by 45°"
+    ],
+    "answer": "Lags voltage by 90°",
+    "reference": "AC Theory"
+  },
+  {
+    "id": 239,
+    "question": "If frequency doubles, the inductive reactance XL will:",
+    "options": [
+      "Halve",
+      "Stay the same",
+      "Double",
+      "Go to zero"
+    ],
+    "answer": "Double",
+    "reference": "AC Theory"
+  },
+  {
+    "id": 240,
+    "question": "Adding shunt capacitors to an inductive load will:",
+    "options": [
+      "Increase power factor toward unity",
+      "Decrease power factor",
+      "Increase reactive power demand",
+      "Have no effect on power factor"
+    ],
+    "answer": "Increase power factor toward unity",
+    "reference": "Power Factor Correction"
+  },
+  {
+    "id": 241,
+    "question": "A 10 kW load at 0.8 lagging is corrected to 0.95. Approximate capacitor rating required?",
+    "options": [
+      "2.1 kVAR",
+      "3.3 kVAR",
+      "4.2 kVAR",
+      "7.5 kVAR"
+    ],
+    "answer": "4.2 kVAR",
+    "reference": "Power Factor Correction"
+  },
+  {
+    "id": 242,
+    "question": "In a purely capacitive circuit, current is related to voltage how?",
+    "options": [
+      "Leads voltage by 90°",
+      "Lags voltage by 90°",
+      "In phase with voltage",
+      "Leads voltage by 45°"
+    ],
+    "answer": "Leads voltage by 90°",
+    "reference": "AC Theory"
+  },
+  {
+    "id": 243,
+    "question": "Which relationship is correct for AC power?",
+    "options": [
+      "S^2 = P^2 + Q^2",
+      "P = S · sinφ",
+      "Q = V I · cosφ",
+      "PF = Q / S"
+    ],
+    "answer": "S^2 = P^2 + Q^2",
+    "reference": "AC Power Relationships"
+  },
+  {
+    "id": 244,
+    "question": "A 400 V, 10 A load at 0.6 lagging draws what reactive power (Q)?",
+    "options": [
+      "2.4 kVAR",
+      "3.2 kVAR",
+      "4.0 kVAR",
+      "6.4 kVAR"
+    ],
+    "answer": "3.2 kVAR",
+    "reference": "AC Power Relationships"
+  }
+  ,
+  {
+    "id": 245,
+    "question": "Which unit measures luminous flux?",
+    "options": [
+      "Lux",
+      "Candela",
+      "Lumen",
+      "Watt"
+    ],
+    "answer": "Lumen",
+    "reference": "Lighting Fundamentals"
+  },
+  {
+    "id": 246,
+    "question": "Illuminance at a surface is measured in which unit?",
+    "options": [
+      "Candela (cd)",
+      "Lux (lx)",
+      "Lumen (lm)",
+      "Kelvin (K)"
+    ],
+    "answer": "Lux (lx)",
+    "reference": "Lighting Fundamentals"
+  },
+  {
+    "id": 247,
+    "question": "A luminaire outputs 3,000 lm while consuming 20 W. What is its efficacy?",
+    "options": [
+      "100 lm/W",
+      "125 lm/W",
+      "150 lm/W",
+      "200 lm/W"
+    ],
+    "answer": "150 lm/W",
+    "reference": "Lighting Efficacy"
+  },
+  {
+    "id": 248,
+    "question": "Which statement best describes Colour Rendering Index (CRI)?",
+    "options": [
+      "Measures colour temperature in Kelvin",
+      "Rates lamp’s ability to reveal colours accurately",
+      "Indicates lamp flicker percentage",
+      "Specifies power factor of the driver"
+    ],
+    "answer": "Rates lamp’s ability to reveal colours accurately",
+    "reference": "Lighting Quality"
+  },
+  {
+    "id": 249,
+    "question": "A desk requires 500 lx. If a lamp gives 2,000 lm uniformly over 4 m², what is the approximate illuminance?",
+    "options": [
+      "100 lx",
+      "250 lx",
+      "500 lx",
+      "1,000 lx"
+    ],
+    "answer": "500 lx",
+    "reference": "Illuminance (lx = lm/m²)"
+  },
+  {
+    "id": 250,
+    "question": "By the inverse square law, if distance to a point doubles, illuminance becomes approximately:",
+    "options": [
+      "One half",
+      "One quarter",
+      "Twice",
+      "Four times"
+    ],
+    "answer": "One quarter",
+    "reference": "Inverse Square Law"
+  },
+  {
+    "id": 251,
+    "question": "Which correlated colour temperature (CCT) is typically considered ‘warm white’?",
+    "options": [
+      "2700 K",
+      "4000 K",
+      "5000 K",
+      "6500 K"
+    ],
+    "answer": "2700 K",
+    "reference": "Colour Temperature"
+  },
+  {
+    "id": 252,
+    "question": "A workspace currently measures 200 lx but needs 500 lx. Assuming uniformity and similar fixtures, approximate increase in luminous flux required is:",
+    "options": [
+      "25% more",
+      "50% more",
+      "150% more",
+      "250% more"
+    ],
+    "answer": "150% more",
+    "reference": "Illuminance Scaling"
+  },
+  {
+    "id": 253,
+    "question": "Emergency egress lighting commonly targets a minimum illuminance of approximately:",
+    "options": [
+      "0.5 lx",
+      "1 lx",
+      "20 lx",
+      "100 lx"
+    ],
+    "answer": "1 lx",
+    "reference": "Emergency Lighting (general guidance)"
+  },
+  {
+    "id": 254,
+    "question": "A corridor is lit by fixtures producing 1,200 lm each. If average maintained illuminance target is 100 lx, roughly how many lumens per square metre are required?",
+    "options": [
+      "50 lm/m²",
+      "100 lm/m²",
+      "500 lm/m²",
+      "1,000 lm/m²"
+    ],
+    "answer": "100 lm/m²",
+    "reference": "Lighting Design Basics"
+  }
+  ,
+  {
+    "id": 255,
+    "question": "An ideal transformer has turns ratio Np:Ns = 10:1 and primary voltage 230 V. What is the secondary voltage?",
+    "options": [
+      "23 V",
+      "46 V",
+      "115 V",
+      "230 V"
+    ],
+    "answer": "23 V",
+    "reference": "Transformers Fundamentals"
+  },
+  {
+    "id": 256,
+    "question": "A 1 kVA, 230/115 V transformer delivers full load on the 115 V secondary. Approximate secondary current is:",
+    "options": [
+      "4.35 A",
+      "8.7 A",
+      "10 A",
+      "20 A"
+    ],
+    "answer": "8.7 A",
+    "reference": "Transformers Fundamentals"
+  },
+  {
+    "id": 257,
+    "question": "A transformer takes 1.20 kW and delivers 1.08 kW. What is the efficiency?",
+    "options": [
+      "85%",
+      "88%",
+      "90%",
+      "92%"
+    ],
+    "answer": "90%",
+    "reference": "Transformer Efficiency"
+  },
+  {
+    "id": 258,
+    "question": "No-load secondary is 230 V and full-load secondary is 220 V. Approximate voltage regulation is:",
+    "options": [
+      "2.2%",
+      "4.3%",
+      "5.0%",
+      "10.0%"
+    ],
+    "answer": "4.3%",
+    "reference": "Voltage Regulation"
+  },
+  {
+    "id": 259,
+    "question": "Which measure reduces eddy-current losses in transformer cores?",
+    "options": [
+      "Use thin laminated steel",
+      "Increase flux density",
+      "Use thicker solid core plates",
+      "Run at lower power factor"
+    ],
+    "answer": "Use thin laminated steel",
+    "reference": "Core Losses"
+  },
+  {
+    "id": 260,
+    "question": "Which statement about autotransformers is correct?",
+    "options": [
+      "They provide galvanic isolation",
+      "They share part of a single winding and do not provide isolation",
+      "They can only step-up voltage",
+      "They are always less efficient than two-winding transformers"
+    ],
+    "answer": "They share part of a single winding and do not provide isolation",
+    "reference": "Autotransformers"
+  },
+  {
+    "id": 261,
+    "question": "Polarity marks (dots) on transformer windings indicate:",
+    "options": [
+      "Relative instantaneous polarity",
+      "Efficiency class",
+      "Voltage regulation",
+      "Insulation class"
+    ],
+    "answer": "Relative instantaneous polarity",
+    "reference": "Transformer Polarity"
+  },
+  {
+    "id": 262,
+    "question": "A 50 Hz transformer is operated at 60 Hz with the same applied voltage. The core flux will:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Stay the same",
+      "Force saturation"
+    ],
+    "answer": "Decrease",
+    "reference": "AC Frequency Effects"
+  },
+  {
+    "id": 263,
+    "question": "The no-load current of a transformer primarily supplies:",
+    "options": [
+      "Copper losses",
+      "Core losses and magnetization",
+      "Full-load power",
+      "Overload capacity"
+    ],
+    "answer": "Core losses and magnetization",
+    "reference": "No-load Current"
+  },
+  {
+    "id": 264,
+    "question": "An ideal transformer has 500 primary turns and 50 secondary turns. If primary current is 1.0 A, secondary current is approximately:",
+    "options": [
+      "0.1 A",
+      "1.0 A",
+      "5.0 A",
+      "10.0 A"
+    ],
+    "answer": "10.0 A",
+    "reference": "Current Ratio"
+  }
+  ,
+  {
+    "id": 265,
+    "question": "For a full-wave bridge on 50 Hz mains, what is the ripple frequency at the filter capacitor (ideal diodes)?",
+    "options": [
+      "25 Hz",
+      "50 Hz",
+      "100 Hz",
+      "150 Hz"
+    ],
+    "answer": "100 Hz",
+    "reference": "Rectification"
+  },
+  {
+    "id": 266,
+    "question": "A 12 V rms source feeds an ideal bridge rectifier and large capacitor (no load). Approximate DC voltage is:",
+    "options": [
+      "12.0 V",
+      "14.1 V",
+      "15.6 V",
+      "16.97 V"
+    ],
+    "answer": "15.6 V",
+    "reference": "Rectification (Vp ≈ Vrms·√2 − 2·0.7 V)"
+  },
+  {
+    "id": 267,
+    "question": "In forward bias, a silicon diode typically conducts near which voltage?",
+    "options": [
+      "0.2 V",
+      "0.7 V",
+      "1.5 V",
+      "3.3 V"
+    ],
+    "answer": "0.7 V",
+    "reference": "Diodes"
+  },
+  {
+    "id": 268,
+    "question": "A 9 V DC source and two series resistors 1 kΩ and 2 kΩ. What is the current?",
+    "options": [
+      "1 mA",
+      "2 mA",
+      "3 mA",
+      "4.5 mA"
+    ],
+    "answer": "3 mA",
+    "reference": "DC Circuits (Ω's Law)"
+  },
+  {
+    "id": 269,
+    "question": "For R = 10 kΩ and C = 10 µF, the RC time constant τ is:",
+    "options": [
+      "10 ms",
+      "50 ms",
+      "100 ms",
+      "1 s"
+    ],
+    "answer": "100 ms",
+    "reference": "Capacitors (τ = RC)"
+  },
+  {
+    "id": 270,
+    "question": "Capacitive reactance XC for C = 4.7 µF at 50 Hz is approximately:",
+    "options": [
+      "0.68 Ω",
+      "68 Ω",
+      "680 Ω",
+      "6.8 kΩ"
+    ],
+    "answer": "680 Ω",
+    "reference": "AC Theory (XC = 1/(2πfC))"
+  },
+  {
+    "id": 271,
+    "question": "Inductive reactance XL for L = 100 mH at 50 Hz is approximately:",
+    "options": [
+      "3.1 Ω",
+      "31.4 Ω",
+      "314 Ω",
+      "3.3 kΩ"
+    ],
+    "answer": "31.4 Ω",
+    "reference": "AC Theory (XL = 2πfL)"
+  },
+  {
+    "id": 272,
+    "question": "Energy stored in an inductor L = 50 mH carrying 2 A is:",
+    "options": [
+      "0.05 J",
+      "0.10 J",
+      "0.20 J",
+      "0.40 J"
+    ],
+    "answer": "0.10 J",
+    "reference": "Inductors (E = ½LI²)"
+  },
+  {
+    "id": 273,
+    "question": "A Zener diode rated 5.1 V is used as a shunt regulator. The regulated output is approximately:",
+    "options": [
+      "3.3 V",
+      "5.1 V",
+      "9.0 V",
+      "12.0 V"
+    ],
+    "answer": "5.1 V",
+    "reference": "Zener Regulation"
+  },
+  {
+    "id": 274,
+    "question": "A half-wave rectifier on 50 Hz has ripple frequency of:",
+    "options": [
+      "25 Hz",
+      "50 Hz",
+      "100 Hz",
+      "150 Hz"
+    ],
+    "answer": "50 Hz",
+    "reference": "Rectification"
+  },
+  {
+    "id": 275,
+    "question": "In a balanced star (Y) connection, the line voltage is:",
+    "options": [
+      "Equal to the phase voltage",
+      "√3 times the phase voltage",
+      "Phase voltage divided by √3",
+      "Twice the phase voltage"
+    ],
+    "answer": "√3 times the phase voltage",
+    "reference": "Three-Phase Basics"
+  },
+  {
+    "id": 276,
+    "question": "In a balanced star (Y) connection, the line current is:",
+    "options": [
+      "Equal to the phase current",
+      "√3 times the phase current",
+      "Phase current divided by √3",
+      "Zero"
+    ],
+    "answer": "Equal to the phase current",
+    "reference": "Three-Phase Basics"
+  },
+  {
+    "id": 277,
+    "question": "In a balanced delta (Δ) connection, the line voltage is:",
+    "options": [
+      "Equal to the phase voltage",
+      "√3 times the phase voltage",
+      "Phase voltage divided by √3",
+      "Zero"
+    ],
+    "answer": "Equal to the phase voltage",
+    "reference": "Three-Phase Basics"
+  },
+  {
+    "id": 278,
+    "question": "In a balanced delta (Δ) connection, the line current is:",
+    "options": [
+      "Equal to the phase current",
+      "√3 times the phase current",
+      "Phase current divided by √3",
+      "Twice the phase current"
+    ],
+    "answer": "√3 times the phase current",
+    "reference": "Three-Phase Basics"
+  },
+  {
+    "id": 279,
+    "question": "For a balanced star system with V_L = 400 V, the phase voltage V_Ph is approximately:",
+    "options": [
+      "115 V",
+      "231 V",
+      "400 V",
+      "690 V"
+    ],
+    "answer": "231 V",
+    "reference": "Three-Phase Relationships (V_Ph = V_L/√3)"
+  },
+  {
+    "id": 280,
+    "question": "In a balanced delta system with I_L = 30 A, the phase current I_Ph is approximately:",
+    "options": [
+      "10.0 A",
+      "17.3 A",
+      "30.0 A",
+      "51.9 A"
+    ],
+    "answer": "17.3 A",
+    "reference": "Three-Phase Relationships (I_Ph = I_L/√3)"
+  },
+  {
+    "id": 281,
+    "question": "Total real power for a balanced three-phase load is:",
+    "options": [
+      "P = 3·V_Ph·I_Ph·cosφ",
+      "P = √3·V_L·I_L·cosφ",
+      "P = V_L·I_L",
+      "P = 3·V_L·I_L"
+    ],
+    "answer": "P = √3·V_L·I_L·cosφ",
+    "reference": "Three-Phase Power"
+  },
+  {
+    "id": 282,
+    "question": "For V_L = 400 V, I_L = 10 A, cosφ = 0.8 (balanced), the total real power is approximately:",
+    "options": [
+      "4.00 kW",
+      "5.54 kW",
+      "6.93 kW",
+      "8.00 kW"
+    ],
+    "answer": "5.54 kW",
+    "reference": "Three-Phase Power (P = √3·V_L·I_L·cosφ)"
+  },
+  {
+    "id": 283,
+    "question": "In a balanced three-phase system, the neutral current is:",
+    "options": [
+      "Maximum",
+      "Equal to any one phase current",
+      "Zero",
+      "Half of line current"
+    ],
+    "answer": "Zero",
+    "reference": "Balanced Systems"
+  },
+  {
+    "id": 284,
+    "question": "The phase displacement between the three line-to-neutral voltages in a balanced three-phase system is:",
+    "options": [
+      "60°",
+      "90°",
+      "120°",
+      "180°"
+    ],
+    "answer": "120°",
+    "reference": "Three-Phase Fundamentals"
+  }
+  ,
+  {
+    "id": 285,
+    "question": "Which device protects a motor against sustained overload (mechanical load) rather than short-circuit?",
+    "options": [
+      "Thermal overload relay",
+      "HRC fuse",
+      "MCCB instantaneous trip",
+      "Surge arrester"
+    ],
+    "answer": "Thermal overload relay",
+    "reference": "Motor Protection Basics"
+  },
+  {
+    "id": 286,
+    "question": "Short-circuit protection in motor circuits is commonly provided by:",
+    "options": [
+      "HRC fuses",
+      "Thermal overload relay",
+      "Start/stop pushbuttons",
+      "Auxiliary contacts"
+    ],
+    "answer": "HRC fuses",
+    "reference": "Motor Protection Basics"
+  },
+  {
+    "id": 287,
+    "question": "An overload relay for a motor is generally set to what value relative to the motor nameplate full-load current (FLC)?",
+    "options": [
+      "80% of FLC",
+      "100% of FLC",
+      "125% of FLC",
+      "150% of FLC"
+    ],
+    "answer": "100% of FLC",
+    "reference": "Motor Protection Basics"
+  },
+  {
+    "id": 288,
+    "question": "The purpose of a no-volt release (undervoltage release) in a DOL starter is to:",
+    "options": [
+      "Prevent automatic restart after power is restored",
+      "Increase starting torque",
+      "Improve power factor",
+      "Reduce short-circuit current"
+    ],
+    "answer": "Prevent automatic restart after power is restored",
+    "reference": "Motor Protection Basics"
+  },
+  {
+    "id": 289,
+    "question": "Which device is used to detect and trip on phase loss (single-phasing) in a three-phase motor?",
+    "options": [
+      "Phase-failure relay",
+      "Earth leakage relay",
+      "Surge arrester",
+      "Varistor"
+    ],
+    "answer": "Phase-failure relay",
+    "reference": "Motor Protection Basics"
+  },
+  {
+    "id": 290,
+    "question": "Which device trips on an imbalance between phase and neutral currents (earth leakage)?",
+    "options": [
+      "RCD",
+      "Thermal overload",
+      "Contactor",
+      "Auxiliary relay"
+    ],
+    "answer": "RCD",
+    "reference": "Motor Protection Basics"
+  },
+  {
+    "id": 291,
+    "question": "In IEC overload relays, the trip class (e.g., Class 10/20) indicates:",
+    "options": [
+      "Maximum permissible trip time at a specified multiple of FLC",
+      "Short-circuit breaking capacity",
+      "Mechanical endurance rating",
+      "Thermal insulation class"
+    ],
+    "answer": "Maximum permissible trip time at a specified multiple of FLC",
+    "reference": "Motor Protection Basics"
+  },
+  {
+    "id": 292,
+    "question": "An MCB curve most suitable for high inrush motor starting is typically:",
+    "options": [
+      "B curve",
+      "C curve",
+      "D curve",
+      "Z curve"
+    ],
+    "answer": "D curve",
+    "reference": "Motor Protection Basics"
+  },
+  {
+    "id": 293,
+    "question": "A locked-rotor (stall) condition is primarily cleared by which protective element in a standard starter?",
+    "options": [
+      "Thermal overload relay",
+      "RCD",
+      "Start button",
+      "Power factor controller"
+    ],
+    "answer": "Thermal overload relay",
+    "reference": "Motor Protection Basics"
+  },
+  {
+    "id": 294,
+    "question": "Compared with bimetal overloads, electronic overload relays generally provide:",
+    "options": [
+      "Lower accuracy and fewer functions",
+      "Better accuracy and features like phase-loss detection",
+      "Only short-circuit protection",
+      "No ambient compensation"
+    ],
+    "answer": "Better accuracy and features like phase-loss detection",
+    "reference": "Motor Protection Basics"
+  }
+  ,
+  {
+    "id": 295,
+    "question": "For R = 47 kΩ and C = 100 nF, the RC time constant τ is:",
+    "options": [
+      "0.47 ms",
+      "4.7 ms",
+      "47 ms",
+      "470 ms"
+    ],
+    "answer": "4.7 ms",
+    "reference": "RC Time Constant (τ = RC)"
+  },
+  {
+    "id": 296,
+    "question": "A capacitor charges from 0 V toward 12 V through R and C. At t = τ, the capacitor voltage is approximately:",
+    "options": [
+      "37% of 12 V",
+      "63% of 12 V",
+      "86% of 12 V",
+      "100% of 12 V"
+    ],
+    "answer": "63% of 12 V",
+    "reference": "Capacitor Charging (V(t)=V(1−e^{−t/RC}))"
+  },
+  {
+    "id": 297,
+    "question": "An RC discharge from 10 V is considered ~95% complete at approximately:",
+    "options": [
+      "1τ",
+      "2τ",
+      "3τ",
+      "5τ"
+    ],
+    "answer": "3τ",
+    "reference": "RC Discharge Approximations"
+  },
+  {
+    "id": 298,
+    "question": "A capacitor stores Q = 500 µC at 10 V. What is its capacitance?",
+    "options": [
+      "5 µF",
+      "50 µF",
+      "500 µF",
+      "5,000 µF"
+    ],
+    "answer": "50 µF",
+    "reference": "Capacitance (C = Q/V)"
+  },
+  {
+    "id": 299,
+    "question": "Two capacitors 4.7 µF and 2.2 µF are in series. The equivalent capacitance is approximately:",
+    "options": [
+      "1.5 µF",
+      "2.2 µF",
+      "3.0 µF",
+      "6.9 µF"
+    ],
+    "answer": "1.5 µF",
+    "reference": "Series Capacitance (1/Ceq=1/C1+1/C2)"
+  },
+  {
+    "id": 300,
+    "question": "For L = 20 mH at 50 Hz, the inductive reactance XL is approximately:",
+    "options": [
+      "3.1 Ω",
+      "6.3 Ω",
+      "31.4 Ω",
+      "62.8 Ω"
+    ],
+    "answer": "6.3 Ω",
+    "reference": "Inductive Reactance (XL = 2πfL)"
+  },
+  {
+    "id": 301,
+    "question": "A coil has L1 = 10 mH with N1 = 100 turns. If turns are doubled to N2 = 200 (same core), L2 is approximately:",
+    "options": [
+      "20 mH",
+      "40 mH",
+      "80 mH",
+      "100 mH"
+    ],
+    "answer": "40 mH",
+    "reference": "Inductance ∝ N²"
+  },
+  {
+    "id": 302,
+    "question": "A 12 V step is applied to an inductor of 50 mH causing current to rise linearly at di/dt. The induced voltage across L is:",
+    "options": [
+      "L x di/dt",
+      "I x R",
+      "Q/C",
+      "V/√2"
+    ],
+    "answer": "L x di/dt",
+    "reference": "Inductor Law (v = L·di/dt)"
+  },
+  {
+    "id": 303,
+    "question": "A coil of N = 200 turns is connected to a constant 12 V source for Δt = 2 ms. The change in flux ΔΦ is approximately:",
+    "options": [
+      "0.012 Wb",
+      "1.2 mWb",
+      "0.12 mWb",
+      "12 µWb"
+    ],
+    "answer": "0.12 mWb",
+    "reference": "Faraday’s Law (ΔΦ = ∫v dt / N)"
+  },
+  {
+    "id": 304,
+    "question": "An RL circuit has L = 100 mH and R = 20 Ω. The time constant τ is:",
+    "options": [
+      "2 ms",
+      "5 ms",
+      "10 ms",
+      "20 ms"
+    ],
+    "answer": "5 ms",
+    "reference": "RL Time Constant (τ = L/R)"
+  }
+  ,
+  {
+    "id": 305,
+    "question": "In the NZ MEN system, the neutral-to-earth (MEN) link is located at:",
+    "options": [
+      "Each socket-outlet",
+      "Every sub-board",
+      "The main switchboard",
+      "The active conductor"
+    ],
+    "answer": "The main switchboard",
+    "reference": "MEN Earthing Basics"
+  },
+  {
+    "id": 306,
+    "question": "The main purpose of equipotential bonding is to:",
+    "options": [
+      "Increase insulation resistance",
+      "Reduce touch voltage under fault",
+      "Lower circuit impedance under load",
+      "Improve power factor"
+    ],
+    "answer": "Reduce touch voltage under fault",
+    "reference": "Equipotential Bonding"
+  },
+  {
+    "id": 307,
+    "question": "Reducing earth fault-loop impedance (Zs) generally:",
+    "options": [
+      "Decreases fault current and slows disconnection",
+      "Increases fault current and speeds disconnection",
+      "Has no effect on protection operation",
+      "Trips RCDs only"
+    ],
+    "answer": "Increases fault current and speeds disconnection",
+    "reference": "Earth Fault-Loop Impedance"
+  },
+  {
+    "id": 308,
+    "question": "Additional 30 mA RCD protection is generally required for:",
+    "options": [
+      "All lighting circuits",
+      "General purpose socket-outlets ≤ 20 A",
+      "All three-phase circuits",
+      "Control circuits only"
+    ],
+    "answer": "General purpose socket-outlets ≤ 20 A",
+    "reference": "RCD Application (AS/NZS 3000)"
+  },
+  {
+    "id": 309,
+    "question": "A typical additional protection RCD trips at approximately:",
+    "options": [
+      "10 mA",
+      "15 mA",
+      "30 mA",
+      "100 mA"
+    ],
+    "answer": "30 mA",
+    "reference": "RCD Ratings"
+  },
+  {
+    "id": 310,
+    "question": "Voltage drop: I = 10 A, mV/A·m = 18, run length = 30 m single-phase (two conductors). Approximate V drop is:",
+    "options": [
+      "3.6 V",
+      "5.4 V",
+      "10.8 V",
+      "18.0 V"
+    ],
+    "answer": "5.4 V",
+    "reference": "AS/NZS 3008 Voltage Drop"
+  },
+  {
+    "id": 311,
+    "question": "For a 230 V circuit with a 5% limit, a 10.8 V drop is:",
+    "options": [
+      "Non-compliant",
+      "Compliant",
+      "Exactly at the limit",
+      "Not assessable"
+    ],
+    "answer": "Compliant",
+    "reference": "Voltage Drop Limits"
+  },
+  {
+    "id": 312,
+    "question": "Increasing conductor cross-sectional area (CSA) will:",
+    "options": [
+      "Increase resistance and voltage drop",
+      "Reduce resistance and voltage drop",
+      "Increase impedance and temperature rise",
+      "Have no effect on voltage drop"
+    ],
+    "answer": "Reduce resistance and voltage drop",
+    "reference": "Cable Sizing Concepts"
+  },
+  {
+    "id": 313,
+    "question": "Single-phase: V = 230 V, I = 16 A, mV/A·m = 11, run = 20 m (two conductors). Approximate % voltage drop is:",
+    "options": [
+      "1.6%",
+      "3.1%",
+      "5.5%",
+      "7.0%"
+    ],
+    "answer": "3.1%",
+    "reference": "AS/NZS 3008 Voltage Drop"
+  },
+  {
+    "id": 314,
+    "question": "With Uo = 230 V and Zs = 0.8 Ω, the prospective earth fault current (approx.) is:",
+    "options": [
+      "29 A",
+      "80 A",
+      "230 A",
+      "288 A"
+    ],
+    "answer": "288 A",
+    "reference": "Earth Fault-Loop Impedance"
+  }
+  ,
+  {
+    "id": 315,
+    "question": "For a sinusoidal waveform with peak voltage Vp = 10 V, the RMS voltage is approximately:",
+    "options": [
+      "5.0 V",
+      "6.3 V",
+      "7.1 V",
+      "10.0 V"
+    ],
+    "answer": "7.1 V",
+    "reference": "RMS of Sine (Vrms = Vp/√2)"
+  },
+  {
+    "id": 316,
+    "question": "A sine wave has Vpp = 100 V. What is the RMS voltage?",
+    "options": [
+      "25.0 V",
+      "35.4 V",
+      "50.0 V",
+      "70.7 V"
+    ],
+    "answer": "35.4 V",
+    "reference": "RMS/Peak/Peak-to-Peak (Vrms = Vpp/(2√2))"
+  },
+  {
+    "id": 317,
+    "question": "For a sine wave, the correct relationship is:",
+    "options": [
+      "Vpeak = 2 x Vrms",
+      "Vpeak-peak = √2 x Vrms",
+      "Vpeak = √2 x Vrms",
+      "Vrms = 2 x Vpeak"
+    ],
+    "answer": "Vpeak = √2 x Vrms",
+    "reference": "RMS/Peak Relationships"
+  },
+  {
+    "id": 318,
+    "question": "Ideal half-wave rectifier (no filter): average DC output is:",
+    "options": [
+      "0.318 x Vp",
+      "0.5 x Vp",
+      "0.637 x Vp",
+      "Vp/2 x √2"
+    ],
+    "answer": "0.318 x Vp",
+    "reference": "Rectification (Half-wave average)"
+  },
+  {
+    "id": 319,
+    "question": "Ideal full-wave rectifier (no filter): average DC output is:",
+    "options": [
+      "0.318 x Vp",
+      "0.5 x Vp",
+      "0.637 x Vp",
+      "Vp/√2"
+    ],
+    "answer": "0.637 x Vp",
+    "reference": "Rectification (Full-wave average)"
+  },
+  {
+    "id": 320,
+    "question": "Full-wave bridge rectifier on 50 Hz mains has ripple frequency of:",
+    "options": [
+      "25 Hz",
+      "50 Hz",
+      "100 Hz",
+      "150 Hz"
+    ],
+    "answer": "100 Hz",
+    "reference": "Rectification (Ripple Frequency)"
+  },
+  {
+    "id": 321,
+    "question": "Adding a large capacitor after a rectifier will:",
+    "options": [
+      "Increase ripple voltage",
+      "Reduce ripple voltage (more smoothed DC)",
+      "Reduce DC level to zero",
+      "Double the ripple frequency"
+    ],
+    "answer": "Reduce ripple voltage (more smoothed DC)",
+    "reference": "Smoothed vs Pulsed DC"
+  },
+  {
+    "id": 322,
+    "question": "Bridge rectifier with silicon diodes and capacitor input: approximate no-load DC output from a sine is:",
+    "options": [
+      "Vrms",
+      "Vrms x √2",
+      "Vrms x √2 − 1.4 V",
+      "Vrms/√2"
+    ],
+    "answer": "Vrms x √2 − 1.4 V",
+    "reference": "Rectification + Diode Drops"
+  },
+  {
+    "id": 323,
+    "question": "Which quantity determines heating effect in a resistor for AC?",
+    "options": [
+      "Peak voltage",
+      "Peak-to-peak voltage",
+      "RMS voltage",
+      "Average of instantaneous voltage"
+    ],
+    "answer": "RMS voltage",
+    "reference": "RMS and Heating"
+  },
+  {
+    "id": 325,
+    "question": "Under AS/NZS 3760, what is the minimum insulation resistance typically required for Class I and Class II appliances (standard test)?",
+    "options": [
+      "100 kΩ",
+      "250 kΩ",
+      "1 MΩ",
+      "10 MΩ"
+    ],
+    "answer": "1 MΩ",
+    "reference": "AS/NZS 3760 Portable Appliance Testing"
+  },
+  {
+    "id": 326,
+    "question": "In portable appliance testing, the protective earth continuity resistance (appliance + lead) should be:",
+    "options": [
+      "Less than or equal to 0.1 Ω",
+      "Less than or equal to 1.0 Ω",
+      "Less than or equal to 10 Ω",
+      "Greater than 10 Ω"
+    ],
+    "answer": "Less than or equal to 1.0 Ω",
+    "reference": "AS/NZS 3760 Earth Continuity"
+  },
+  {
+    "id": 327,
+    "question": "Before any electrical tests in appliance testing, the first step is to:",
+    "options": [
+      "Perform an insulation resistance test",
+      "Plug the appliance in and turn it on",
+      "Carry out a thorough visual inspection",
+      "Attach a pass tag"
+    ],
+    "answer": "Carry out a thorough visual inspection",
+    "reference": "AS/NZS 3760 Test Sequence"
+  },
+  {
+    "id": 328,
+    "question": "Which test voltage is commonly used for insulation resistance on Class I/II appliances (unless equipment requires 250 V)?",
+    "options": [
+      "50 V DC",
+      "100 V DC",
+      "250 V DC",
+      "500 V DC"
+    ],
+    "answer": "500 V DC",
+    "reference": "AS/NZS 3760 Insulation Test"
+  },
+  {
+    "id": 329,
+    "question": "A workshop portable tool under AS/NZS 3760 is typically re‑tested at intervals of:",
+    "options": [
+      "Monthly",
+      "Every 3 months",
+      "Every 6 months",
+      "Every 2 years"
+    ],
+    "answer": "Every 6 months",
+    "reference": "AS/NZS 3760 Test Intervals (example)"
+  },
+  {
+    "id": 330,
+    "question": "Which of the following best identifies a Class II appliance?",
+    "options": [
+      "Has a protective earth pin",
+      "Double‑square symbol and no earth",
+      "Requires a 3‑phase plug",
+      "Always has a metal enclosure"
+    ],
+    "answer": "Double‑square symbol and no earth",
+    "reference": "Class II Identification"
+  },
+  {
+    "id": 331,
+    "question": "An acceptable contents list for a test/tag label includes:",
+    "options": [
+      "Tester’s name/ID, date tested, next test due, result",
+      "Voltage rating only",
+      "Customer’s phone number only",
+      "Manufacturer and serial only"
+    ],
+    "answer": "Tester’s name/ID, date tested, next test due, result",
+    "reference": "AS/NZS 3760 Tagging"
+  },
+  {
+    "id": 332,
+    "question": "If insulation resistance cannot be performed at 500 V DC due to surge‑protected or sensitive equipment, you should:",
+    "options": [
+      "Skip testing entirely",
+      "Use 250 V DC or perform a leakage current test",
+      "Use 1000 V DC regardless",
+      "Only do a visual inspection"
+    ],
+    "answer": "Use 250 V DC or perform a leakage current test",
+    "reference": "AS/NZS 3760 Alternative Tests"
+  },
+  {
+    "id": 333,
+    "question": "For a detachable cord set, polarity is correct when:",
+    "options": [
+      "Active and neutral are swapped",
+      "Active connects to the switch/fuse side and neutral returns",
+      "Earth is not connected",
+      "All pins are bridged"
+    ],
+    "answer": "Active connects to the switch/fuse side and neutral returns",
+    "reference": "Cord Set Polarity (AU/NZ)"
+  },
+  {
+    "id": 334,
+    "question": "Which of the following visual defects would cause an immediate fail before testing?",
+    "options": [
+      "Slight surface dust",
+      "Damaged plug with exposed conductors",
+      "Minor scuff on enclosure",
+      "Long cord length"
+    ],
+    "answer": "Damaged plug with exposed conductors",
+    "reference": "AS/NZS 3760 Visual Inspection"
+  }
+  ,
+  {
+    "id": 335,
+    "question": "A protective device’s breaking capacity must be:",
+    "options": [
+      "Less than the prospective short‑circuit current",
+      "Equal to or greater than the prospective short‑circuit current",
+      "Equal to the load current",
+      "Always 10 kA regardless of system"
+    ],
+    "answer": "Equal to or greater than the prospective short‑circuit current",
+    "reference": "Protection & Coordination"
+  },
+  {
+    "id": 336,
+    "question": "Which MCB curve best suits high inrush loads (e.g., motors)?",
+    "options": [
+      "Curve B",
+      "Curve C",
+      "Curve D",
+      "Curve Z"
+    ],
+    "answer": "Curve D",
+    "reference": "MCB Time‑Current Curves"
+  },
+  {
+    "id": 337,
+    "question": "Selectivity (discrimination) between upstream and downstream devices means:",
+    "options": [
+      "Both devices trip for a fault",
+      "Only the upstream device trips",
+      "Only the device closest to the fault trips",
+      "No device trips"
+    ],
+    "answer": "Only the device closest to the fault trips",
+    "reference": "Selectivity/Discrimination"
+  },
+  {
+    "id": 338,
+    "question": "Type AC vs Type A RCD: Type A will detect:",
+    "options": [
+      "Only pure AC residual currents",
+      "AC and pulsating DC residual currents",
+      "Only DC residual currents",
+      "No residual currents"
+    ],
+    "answer": "AC and pulsating DC residual currents",
+    "reference": "RCD Types"
+  },
+  {
+    "id": 339,
+    "question": "Coordination between a fuse (upstream) and MCB (downstream) is improved by:",
+    "options": [
+      "Using identical current ratings",
+      "Ensuring upstream device has higher time‑current let‑through characteristics",
+      "Placing the MCB upstream of the fuse",
+      "Bypassing the downstream device"
+    ],
+    "answer": "Ensuring upstream device has higher time‑current let‑through characteristics",
+    "reference": "Protection Coordination"
+  },
+  {
+    "id": 340,
+    "question": "If True Power = 3 kW, Reactive power = 4 kVAr, what is the Apparent Power (S)?",
+    "options": [
+      "5 kVA",
+      "7 kVA",
+      "3.5 kVA",
+      "25 kVA"
+    ],
+    "answer": "5 kVA",
+    "reference": "Power Factor"
+  },
+  {
+    "id": 341,
+    "question": "If True Power = 7 kW, Reactive power = 4 kVAr, what is the Apparent Power (S)?",
+    "options": [
+      "8.06 kVA",
+      "65 kVA",
+      "3.59 kVA",
+      "25.12 kVA"
+    ],
+    "answer": "8.06 kVA",
+    "reference": "Power Factor"
+  },
+  {
+    "id": 342,
+    "question": "For selectivity, upstream time‑current curves should be:",
+    "options": [
+      "Below (to the left of) downstream curves",
+      "Above/right of downstream curves, with adequate separation",
+      "Exactly overlapping",
+      "Irrelevant to each other"
+    ],
+    "answer": "Above/right of downstream curves, with adequate separation",
+    "reference": "Time‑Current Curve Coordination"
+  },
+  {
+    "id": 343,
+    "question": "Prospective short‑circuit current at a board depends mainly on:",
+    "options": [
+      "Load power factor",
+      "Source impedance and circuit impedance",
+      "MCB curve type",
+      "RCD rating"
+    ],
+    "answer": "Source impedance and circuit impedance",
+    "reference": "Fault Current Fundamentals"
+  },
+  {
+    "id": 344,
+    "question": "To achieve overload protection coordination, a downstream device rating is typically selected to be:",
+    "options": [
+      "Higher than upstream device",
+      "Equal to upstream device",
+      "Lower than upstream device (appropriately graded)",
+      "Unrelated to upstream device"
+    ],
+    "answer": "Lower than upstream device (appropriately graded)",
+    "reference": "Overload Coordination"
+  },
+  {
+    "id": 345,
+    "question": "Which statement is true regarding breaking capacity and selectivity?",
+    "options": [
+      "Selectivity can compensate for inadequate breaking capacity",
+      "Each device must have adequate breaking capacity regardless of selectivity",
+      "Selectivity is only required with fuses",
+      "Breaking capacity only applies to RCDs"
+    ],
+    "answer": "Each device must have adequate breaking capacity regardless of selectivity",
+    "reference": "Protection Principles"
+  }
+  ,
+  {
+    "id": 346,
+    "question": "Who owns and operates New Zealand’s national transmission grid?",
+    "options": [
+      "Local distribution companies",
+      "Transpower New Zealand Ltd",
+      "Mercury Energy",
+      "Meridian Energy"
+    ],
+    "answer": "Transpower New Zealand Ltd",
+    "reference": "NZ National Grid Basics"
+  },
+  {
+    "id": 347,
+    "question": "What is the standard system frequency of the NZ grid?",
+    "options": [
+      "40 Hz",
+      "50 Hz",
+      "60 Hz",
+      "400 Hz"
+    ],
+    "answer": "50 Hz",
+    "reference": "NZ National Grid Basics"
+  },
+  {
+    "id": 348,
+    "question": "Which voltage levels are commonly used for high‑voltage transmission in NZ?",
+    "options": [
+      "400 kV and 275 kV",
+      "220 kV and 110 kV",
+      "66 kV and 33 kV",
+      "22 kV and 11 kV"
+    ],
+    "answer": "220 kV and 110 kV",
+    "reference": "NZ Transmission Voltages"
+  },
+  {
+    "id": 349,
+    "question": "The Inter‑island link between Benmore (SI) and Haywards (NI) is a(n):",
+    "options": [
+      "AC 220 kV double‑circuit line",
+      "HVDC link across Cook Strait",
+      "132 kV submarine AC cable",
+      "11 kV distribution feeder"
+    ],
+    "answer": "HVDC link across Cook Strait",
+    "reference": "NZ Inter‑island HVDC"
+  },
+  {
+    "id": 350,
+    "question": "A Grid Exit Point (GXP) is best described as:",
+    "options": [
+      "Where generation connects into the grid",
+      "Where the transmission grid supplies a distribution network or major customer",
+      "Any point on a distribution line",
+      "A residential service pillar"
+    ],
+    "answer": "Where the transmission grid supplies a distribution network or major customer",
+    "reference": "NZ Grid Interfaces"
+  },
+  {
+    "id": 351,
+    "question": "Typical subtransmission voltages that step down from 110/220 kV in NZ are:",
+    "options": [
+      "66 kV or 33 kV",
+      "22 kV or 11 kV",
+      "6.6 kV or 3.3 kV",
+      "1 kV or 500 V"
+    ],
+    "answer": "66 kV or 33 kV",
+    "reference": "NZ Subtransmission"
+  },
+  {
+    "id": 352,
+    "question": "The term N‑1 security generally means the grid can:",
+    "options": [
+      "Operate with no maintenance",
+      "Withstand the loss of any single component without loss of supply (within limits)",
+      "Double capacity on demand",
+      "Run at twice nominal frequency"
+    ],
+    "answer": "Withstand the loss of any single component without loss of supply (within limits)",
+    "reference": "Grid Security Concepts"
+  },
+  {
+    "id": 353,
+    "question": "The South Island primarily exports which generation type north via the HVDC link?",
+    "options": [
+      "Geothermal",
+      "Hydro‑electric",
+      "Coal‑fired",
+      "Nuclear"
+    ],
+    "answer": "Hydro‑electric",
+    "reference": "NZ Generation Mix"
+  },
+  {
+    "id": 354,
+    "question": "Local networks that deliver electricity to most customers are owned/operated by:",
+    "options": [
+      "Transpower",
+      "Distribution (lines) companies",
+      "Retailers",
+      "The system operator only"
+    ],
+    "answer": "Distribution (lines) companies",
+    "reference": "NZ Distribution Networks"
+  },
+  {
+    "id": 355,
+    "question": "A Grid Injection Point (GIP) refers to:",
+    "options": [
+      "Where a distribution network connects to customers",
+      "Where generation injects power into the transmission grid",
+      "Where the grid exits to a large customer",
+      "Any LV switchboard"
+    ],
+    "answer": "Where generation injects power into the transmission grid",
+    "reference": "NZ Grid Interfaces"
+  },
+  {
+    "id": 356,
+    "question": "Single-phase: V = 230 V, I = 10 A, power factor = 0.8. Real power P is approximately:",
+    "options": [
+      "1.60 kW",
+      "1.84 kW",
+      "2.00 kW",
+      "2.30 kW"
+    ],
+    "answer": "1.84 kW",
+    "reference": "Power (P = V·I·cosφ)"
+  },
+  {
+    "id": 357,
+    "question": "Single-phase: V = 230 V, I = 10 A. Apparent power S is:",
+    "options": [
+      "1.84 kVA",
+      "2.00 kVA",
+      "2.30 kVA",
+      "2.76 kVA"
+    ],
+    "answer": "2.30 kVA",
+    "reference": "Apparent Power (S = V·I)"
+  },
+  {
+    "id": 358,
+    "question": "An appliance rated 2 kW runs for 3 hours. Energy used is:",
+    "options": [
+      "0.6 kWh",
+      "2.0 kWh",
+      "3.0 kWh",
+      "6.0 kWh"
+    ],
+    "answer": "6.0 kWh",
+    "reference": "Energy (kWh = kW × h)"
+  },
+  {
+    "id": 359,
+    "question": "If electricity costs $0.28 per kWh, the cost of 6.0 kWh is:",
+    "options": [
+      "$0.84",
+      "$1.28",
+      "$1.68",
+      "$2.40"
+    ],
+    "answer": "$1.68",
+    "reference": "Energy Cost"
+  },
+  {
+    "id": 360,
+    "question": "A device takes 1.20 kW input and delivers 1.00 kW output. Efficiency η is:",
+    "options": [
+      "75%",
+      "83.3%",
+      "90%",
+      "120%"
+    ],
+    "answer": "83.3%",
+    "reference": "Efficiency (η = Pout/Pin)"
+  },
+  {
+    "id": 361,
+    "question": "Given P = 3 kW and Q = 4 kVAR, the apparent power S is:",
+    "options": [
+      "3.5 kVA",
+      "4.0 kVA",
+      "5.0 kVA",
+      "7.0 kVA"
+    ],
+    "answer": "5.0 kVA",
+    "reference": "Power Triangle (S² = P² + Q²)"
+  },
+  {
+    "id": 362,
+    "question": "Three-phase balanced: V_L = 400 V, I_L = 20 A, cosφ = 0.9. Real power P is approximately:",
+    "options": [
+      "10.39 kW",
+      "12.47 kW",
+      "13.86 kW",
+      "15.59 kW"
+    ],
+    "answer": "12.47 kW",
+    "reference": "Three-Phase Power (P = √3·V_L·I_L·cosφ)"
+  },
+  {
+    "id": 363,
+    "question": "Convert 500 Wh to joules (J):",
+    "options": [
+      "1.8 kJ",
+      "18 kJ",
+      "180 kJ",
+      "1.8 MJ"
+    ],
+    "answer": "1.8 MJ",
+    "reference": "Energy Conversion (1 Wh = 3600 J)"
+  },
+  {
+    "id": 364,
+    "question": "A load draws 5 kW at power factor 0.8. Apparent power S is:",
+    "options": [
+      "4.0 kVA",
+      "5.0 kVA",
+      "6.25 kVA",
+      "8.0 kVA"
+    ],
+    "answer": "6.25 kVA",
+    "reference": "S = P / cosφ"
+  },
+  {
+    "id": 365,
+    "question": "If P = 4.0 kW and S = 5.0 kVA, the power factor is:",
+    "options": [
+      "0.6",
+      "0.75",
+      "0.8",
+      "0.9"
+    ],
+    "answer": "0.8",
+    "reference": "cosφ = P/S"
+  }
+  ,
+  {
+    "id": 366,
+    "question": "Before using a multimeter on the resistance (Ω) range you should:",
+    "options": [
+      "Leave the circuit energized",
+      "Ensure the circuit is de‑energized and capacitors discharged",
+      "Short the meter leads together permanently",
+      "Select the A (amps) input jack"
+    ],
+    "answer": "Ensure the circuit is de‑energized and capacitors discharged",
+    "reference": "Test Instruments — DMM Use"
+  },
+  {
+    "id": 367,
+    "question": "Which instrument measures insulation resistance at test voltages such as 500 V DC?",
+    "options": [
+      "Clamp meter",
+      "Megohmmeter (insulation tester)",
+      "Oscilloscope",
+      "Data logger"
+    ],
+    "answer": "Megohmmeter (insulation tester)",
+    "reference": "Test Instruments — Insulation Tester"
+  },
+  {
+    "id": 368,
+    "question": "A clamp meter measures current by sensing the:",
+    "options": [
+      "Voltage drop across the load",
+      "Magnetic field around a single conductor",
+      "Temperature rise in the cable",
+      "Capacitance between conductors"
+    ],
+    "answer": "Magnetic field around a single conductor",
+    "reference": "Test Instruments — Clamp Meter"
+  },
+  {
+    "id": 369,
+    "question": "Compared with average‑responding meters, a True RMS meter will:",
+    "options": [
+      "Show the same reading for all waveforms",
+      "Give correct RMS for non‑sinusoidal waveforms",
+      "Measure only DC accurately",
+      "Require no calibration"
+    ],
+    "answer": "Give correct RMS for non‑sinusoidal waveforms",
+    "reference": "Test Instruments — True RMS"
+  },
+  {
+    "id": 370,
+    "question": "Which meter category is generally suitable for measurements inside a distribution board (switchboard)?",
+    "options": [
+      "CAT I 1000 V",
+      "CAT II 600 V",
+      "CAT III 600 V",
+      "CAT IV 150 V"
+    ],
+    "answer": "CAT III 600 V",
+    "reference": "Test Instruments — CAT Ratings"
+  },
+  {
+    "id": 371,
+    "question": "Recommended minimum test current for protective bonding continuity is:",
+    "options": [
+      "2 mA",
+      "20 mA",
+      "200 mA",
+      "2 A"
+    ],
+    "answer": "200 mA",
+    "reference": "Test Instruments — Continuity Testing"
+  },
+  {
+    "id": 372,
+    "question": "To view small AC ripple riding on a DC supply with an oscilloscope, select:",
+    "options": [
+      "DC coupling and 10 V/div",
+      "AC coupling and suitable sensitivity",
+      "Ground coupling only",
+      "Invert function only"
+    ],
+    "answer": "AC coupling and suitable sensitivity",
+    "reference": "Test Instruments — Oscilloscope"
+  },
+  {
+    "id": 373,
+    "question": "Placing a digital multi meter set to current (A) across a voltage source will:",
+    "options": [
+      "Measure voltage correctly",
+      "Likely blow the meter’s internal fuse",
+      "Have no effect",
+      "Read zero always"
+    ],
+    "answer": "Likely blow the meter’s internal fuse",
+    "reference": "Test Instruments — DMM Current Range"
+  },
+  {
+    "id": 374,
+    "question": "A non‑contact voltage tester is best used to:",
+    "options": [
+      "Prove a circuit is dead for isolation",
+      "Provide a preliminary ‘live’ indication only",
+      "Measure exact voltage",
+      "Measure current without contact"
+    ],
+    "answer": "Provide a preliminary ‘live’ indication only",
+    "reference": "Test Instruments — NCVT"
+  },
+  {
+    "id": 375,
+    "question": "When using a clamp meter on a twin‑core cable, clamping around both conductors:",
+    "options": [
+      "Shows the correct load current",
+      "Reads approximately zero due to cancellation",
+      "Doubles the reading",
+      "Damages the meter"
+    ],
+    "answer": "Reads approximately zero due to cancellation",
+    "reference": "Test Instruments — Clamp Technique"
+  }
+  ,
+  {
+    "id": 376,
+    "question": "Convert 2.5 kW to watts (W):",
+    "options": [
+      "0.025 W",
+      "250 W",
+      "2,500 W",
+      "25,000 W"
+    ],
+    "answer": "2,500 W",
+    "reference": "Basic Maths — Unit Prefixes"
+  },
+  {
+    "id": 377,
+    "question": "Convert 1500 mA to amperes (A):",
+    "options": [
+      "0.15 A",
+      "1.5 A",
+      "15 A",
+      "150 A"
+    ],
+    "answer": "1.5 A",
+    "reference": "Basic Maths — Unit Prefixes"
+  },
+  {
+    "id": 378,
+    "question": "Convert 3.6 kWh to Wh:",
+    "options": [
+      "360 Wh",
+      "3,600 Wh",
+      "36,000 Wh",
+      "3.6 Wh"
+    ],
+    "answer": "3,600 Wh",
+    "reference": "Basic Maths — Energy Units"
+  },
+  {
+    "id": 379,
+    "question": "A resistance increases from 80 Ω to 100 Ω. What is the percentage increase?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "40%"
+    ],
+    "answer": "25%",
+    "reference": "Basic Maths — Percentages"
+  },
+  {
+    "id": 380,
+    "question": "0.00047 F expressed with a metric prefix is:",
+    "options": [
+      "4.7 µF",
+      "47 µF",
+      "470 µF",
+      "4,700 µF"
+    ],
+    "answer": "470 µF",
+    "reference": "Basic Maths — Scientific Notation"
+  },
+  {
+    "id": 381,
+    "question": "If V = 24 V and I = 3 A, what is R? (R = V/I)",
+    "options": [
+      "6 Ω",
+      "8 Ω",
+      "12 Ω",
+      "18 Ω"
+    ],
+    "answer": "8 Ω",
+    "reference": "Basic Maths — Rearranging Formulae"
+  },
+  {
+    "id": 382,
+    "question": "What is the mean (average) of 10, 15, and 25?",
+    "options": [
+      "15.0",
+      "16.7",
+      "17.5",
+      "20.0"
+    ],
+    "answer": "16.7",
+    "reference": "Basic Maths — Averages"
+  },
+  {
+    "id": 383,
+    "question": "Two perpendicular currents of 6 A and 8 A combine vectorially. The magnitude is:",
+    "options": [
+      "7 A",
+      "10 A",
+      "12 A",
+      "14 A"
+    ],
+    "answer": "10 A",
+    "reference": "Basic Maths — Pythagoras"
+  },
+  {
+    "id": 384,
+    "question": "Simplify the ratio 12:18",
+    "options": [
+      "1:2",
+      "2:3",
+      "3:4",
+      "4:5"
+    ],
+    "answer": "2:3",
+    "reference": "Basic Maths — Ratios"
+  },
+  {
+    "id": 385,
+    "question": "1.2 × 10³ volts equals:",
+    "options": [
+      "1.2 V",
+      "12 V",
+      "120 V",
+      "1,200 V"
+    ],
+    "answer": "1,200 V",
+    "reference": "Basic Maths — Scientific Notation"
+  },
+  {
+    "id": 501,
+    "question": "The circuit shown has two 20\u00a0\u03a9 resistors in series with resistor R1. The total resistance is 90\u00a0\u03a9. What is the value of R1?",
+    "options": [
+      "30 \u03a9",
+      "40 \u03a9",
+      "50 \u03a9",
+      "90 \u03a9"
+    ],
+    "answer": "50 \u03a9",
+    "reference": "Series Circuits \u2013 Resistance",
+    "images": [
+      {
+        "src": "assets/img/questions/resistance/SeriesResistance-90ohm.png",
+        "alt": "Two 20-ohm resistors in series with resistor R1; total resistance 90 ohms",
+        "caption": "Calculate R1 given total resistance of 90 \u03a9"
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "question": "The circuit shown has three resistors in parallel: R1 = 10 \u03a9, R2 = 10 \u03a9, and R3 unknown. The total resistance is 4 \u03a9. What is the value of R3?",
+    "options": [
+      "10 \u03a9",
+      "20 \u03a9",
+      "30 \u03a9",
+      "40 \u03a9"
+    ],
+    "answer": "20 \u03a9",
+    "reference": "Parallel Circuits \u2013 Resistance",
+    "images": [
+      {
+        "src": "assets/img/questions/resistance/ParallelResistance-4ohm-10-10.png",
+        "alt": "Three parallel resistors: R1=10 \u03a9, R2=10 \u03a9, R3 unknown; total resistance 4 \u03a9",
+        "caption": "Calculate R3 given total resistance of 4 \u03a9 (parallel)"
+      }
+    ]
+  },
+  {
+    "id": 503,
+    "question": "The circuit shown has three resistors in parallel: 5 \u03a9, 10 \u03a9, and 20 \u03a9, connected to a 12 V source. What is the total resistance?",
+    "options": [
+      "2.86 \u03a9",
+      "2.50 \u03a9",
+      "3.33 \u03a9",
+      "5.00 \u03a9"
+    ],
+    "answer": "2.86 \u03a9",
+    "reference": "Parallel Circuits \u2013 Resistance",
+    "images": [
+      {
+        "src": "assets/img/questions/resistance/ParallelResistance-5ohm-10-20-12V.png",
+        "alt": "Three parallel resistors of 5, 10, and 20 ohms with a 12 V battery; find total resistance",
+        "caption": "Total resistance of 5 \u03a9, 10 \u03a9, 20 \u03a9 in parallel"
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "question": "For the parallel circuit (5 \u03a9, 10 \u03a9, 20 \u03a9) with a 12 V source, what is the total supply current?",
+    "options": [
+      "2.4 A",
+      "3.0 A",
+      "4.2 A",
+      "6.0 A"
+    ],
+    "answer": "4.2 A",
+    "reference": "Parallel Circuits \u2013 Current and Conductance",
+    "images": [
+      {
+        "src": "assets/img/questions/resistance/ParallelResistance-5ohm-10-20-12V.png",
+        "alt": "Three parallel resistors of 5, 10, and 20 ohms with a 12 V battery; compute supply current",
+        "caption": "Supply current for 5 \u03a9, 10 \u03a9, 20 \u03a9 in parallel at 12 V"
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "question": "For the series–parallel circuit shown (15 \u03a9 in series with 3 parallel resistors, 5 \u03a9, 10 \u03a9, 20 \u03a9 with 12 V supply), what is the total supply current?",
+    "options": [
+      "0.52 A",
+      "0.67 A",
+      "1.08 A",
+      "1.20 A"
+    ],
+    "answer": "0.67 A",
+    "reference": "Series Parallel Circuits   Current",
+    "images": [
+      {
+        "src": "assets/img/questions/resistance/SeriesParallelResistance-15ohm-5-10-20-12V.png",
+        "alt": "Series parallel network using 5 \u03a9, 10 \u03a9, 20 \u03a9 resistors at 12 V; total resistance 15 \u03a9",
+        "caption": "Supply current for series parallel network at 12 V"
+      }
+    ]
+  },
+  {
+    "id": 506,
+    "question": "In the parallel circuit shown (5 \u03a9, 10 \u03a9, 10 \u03a9) connected to a 12 V source, what is the current through the 5 \u03a9 resistor?",
+    "options": [
+      "1.2 A",
+      "2.4 A",
+      "3.0 A",
+      "4.0 A"
+    ],
+    "answer": "2.4 A",
+    "reference": "Parallel Branch Currents",
+    "images": [
+      {
+        "src": "assets/img/questions/resistance/ParallelCurrent-5ohm-10-10-12V.png",
+        "alt": "Three parallel resistors 5 \u03a9, 10 \u03a9, 10 \u03a9 at 12 V; find current in 5 \u03a9 branch",
+        "caption": "Branch current through 5 \u03a9 at 12 V"
+      }
+    ]
+  },
+  {
+    "id": 507,
+    "question": "A 12 V battery with 2 \u03a9 internal resistance is connected as shown. If 2.67 A flows in the circuit, what is the battery terminal voltage?",
+    "options": [
+      "6.7 V",
+      "7.3 V",
+      "9.3 V",
+      "12.0 V"
+    ],
+    "answer": "6.7 V",
+    "reference": "Internal Resistance - Terminal Voltage",
+    "images": [
+      {
+        "src": "assets/img/questions/resistance/ParallelInternalResistance-2ohm-5-10-10.png",
+        "alt": "12 V battery with 2 \u03a9 internal resistance feeding a parallel network; total current 2.67 A; find terminal voltage",
+        "caption": "Battery terminal voltage with internal resistance"
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "question": "In the circuit shown with a 10 \u03a9 resistance in series with three 5 \u03a9 resistors in parallel, what is the voltage across the 5 \u03a9 group?",
+    "options": [
+      "1.2 V",
+      "1.7 V",
+      "2.5 V",
+      "3.0 V"
+    ],
+    "answer": "1.7 V",
+    "reference": "Internal Resistance - Load Voltage",
+    "images": [
+      {
+        "src": "assets/img/questions/resistance/ParallelInternalResistance-10ohm-5-5-5.png",
+        "alt": "Battery with 10 \u03a9 internal resistance feeding three 5 \u03a9 resistors in parallel; find the voltage across the 5 \u03a9 group",
+        "caption": "Load voltage with internal resistance"
+      }
+    ]
+  },
+  {
+    "id": 509,
+    "question": "In the series circuit shown (2 \u03a9, 12 \u03a9, 22 \u03a9, 15 \u03a9), what is the voltage across the 12 \u03a9 resistor?",
+    "options": [
+      "53.91 V",
+      "55.81 V",
+      "25.52 V",
+      "31.03 V"
+    ],
+    "answer": "53.91 V",
+    "reference": "Series Circuits \u2013 Voltage Drop",
+    "images": [
+      {
+        "src": "assets/img/questions/resistance/SeriesVoltDrop-2-12-22-15-1ohm.png",
+        "alt": "Series circuit with resistors 2 \u03a9, 12 \u03a9, 22 \u03a9, 15 \u03a9; find voltage across 12 \u03a9",
+        "caption": "Voltage drop across 12 \u03a9 in series network"
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "question": "In the series circuit shown (2 \u03a9, 12 \u03a9, 22 \u03a9, 15 \u03a9), what is the voltage across the 2 \u03a9 resistor?",
+    "options": [
+      "8.99 V",
+      "7.50 V",
+      "9.80 V",
+      "12.00 V"
+    ],
+    "answer": "8.99 V",
+    "reference": "Series Circuits \u2013 Voltage Drop",
+    "images": [
+      {
+        "src": "assets/img/questions/resistance/SeriesVoltDrop-2-12-22-15-1ohm.png",
+        "alt": "Series circuit with resistors 2 \u03a9, 12 \u03a9, 22 \u03a9, 15 \u03a9; find voltage across 2 \u03a9",
+        "caption": "Voltage drop across 2 \u03a9 in series network"
+      }
+    ]
+  },
+  {
+    "id": 511,
+    "question": "In the series circuit shown (2 \u03a9, 12 \u03a9, 22 \u03a9, 15 \u03a9), what is the voltage across the 22 \u03a9 resistor?",
+    "options": [
+      "98.84 V",
+      "94.00 V",
+      "102.00 V",
+      "110.00 V"
+    ],
+    "answer": "98.84 V",
+    "reference": "Series Circuits \u2013 Voltage Drop",
+    "images": [
+      {
+        "src": "assets/img/questions/resistance/SeriesVoltDrop-2-12-22-15-1ohm.png",
+        "alt": "Series circuit with resistors 2 \u03a9, 12 \u03a9, 22 \u03a9, 15 \u03a9; find voltage across 22 \u03a9",
+        "caption": "Voltage drop across 22 \u03a9 in series network"
+      }
+    ]
+  },
+  {
+    "id": 512,
+    "question": "In the series circuit shown (2 \u03a9, 12 \u03a9, 22 \u03a9, 15 \u03a9), what is the voltage across the 15 \u03a9 resistor?",
+    "options": [
+      "67.39 V",
+      "60.00 V",
+      "70.00 V",
+      "75.00 V"
+    ],
+    "answer": "67.39 V",
+    "reference": "Series Circuits \u2013 Voltage Drop",
+    "images": [
+      {
+        "src": "assets/img/questions/resistance/SeriesVoltDrop-2-12-22-15-1ohm.png",
+        "alt": "Series circuit with resistors 2 \u03a9, 12 \u03a9, 22 \u03a9, 15 \u03a9; find voltage across 15 \u03a9",
+        "caption": "Voltage drop across 15 \u03a9 in series network"
+      }
+    ]
+  }
+]

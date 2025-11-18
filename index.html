@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice Exam — Level 2/3 Electrical (New Zealand)</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="app-container">
+        <header>
+            <img src="logo.png" alt="Logo" id="logo">
+            <h1>Practice Exam — Level 2/3 <strong>Electrical</strong> (NZ)</h1>
+            <div style="font-size: 0.9em; color: #888; margin-top: 4px;">v2.00</div>
+        </header>
+
+        <div id="start-screen" class="screen active">
+            <h2>Welcome to the Year 2 Practice Exam</h2>
+            <p>This exam is a consolidated practice for Level 2 and Level 3 electrical trainees in New Zealand.</p>
+            <p>You will have <strong>1.5 hours</strong> to answer <strong>60 questions</strong>.</p>
+            <p>This is a timed practice exam intended to test knowledge across a broad range of topics (not open book).</p>
+            <p>Covered subjects include (representative):</p>
+            <ul>
+                <li>Mathematics for Electrical Trades</li>
+                <li>Atomic Theory & Electrochemistry</li>
+                <li>Resistance, Circuits & AC/DC Theory</li>
+                <li>Motors, Transformers & Generation</li>
+                <li>Safety, Isolation, Testing & Legislation</li>
+                <li>Power Supplies, Lighting, Earthing & Protection</li>
+                <li>Soldering, Components, Practical (EAS-Q / EST)</li>
+                <li>National Grid, Switchboards & Fault Finding</li>
+            </ul>
+            <p>Click "Start Exam" to begin.</p>
+            <button id="start-btn" class="btn">Start Exam</button>
+        </div>
+
+        <div id="exam-screen" class="screen">
+            <div id="exam-header">
+                <div id="question-counter"></div>
+                <button id="flag-btn" class="btn flag-btn">⚐ Flag for Review</button>
+            </div>
+            <div id="timer-bar-container">
+                <div id="timer-bar-bg">
+                    <div id="timer-bar"></div>
+                </div>
+                <div id="timer-label"></div>
+            </div>
+            <div id="progress-bar"></div>
+            <div id="question-container">
+                <p id="question-text"></p>
+                <div id="options-container"></div>
+            </div>
+            <div id="navigation-buttons">
+                <div style="display: flex; gap: 10px; margin-top: 40px; justify-content: center;">
+                    <button id="prev-btn" class="btn nav-btn">Previous</button>
+                    <button id="next-btn" class="btn nav-btn">Next</button>
+                </div>
+            </div>
+            <div style="display: flex; gap: 10px; margin-top: 40px; justify-content: center;">
+                <button id="submit-btn" class="btn submit-btn">Submit Exam</button>
+                <button id="restart-exam-btn" class="btn" style="background-color:#ffc107;color:#333;">Restart Exam</button>
+            </div>
+        </div>
+
+        <div id="results-screen" class="screen">
+            <h2>Exam Results</h2>
+            <div id="score-summary">
+                <p>Your Score: <span id="score-percentage"></span></p>
+                <p>Correct Answers: <span id="correct-count"></span> out of <span id="total-count"></span></p>
+            </div>
+            <div id="results-details"></div>
+            <button id="restart-btn" class="btn">Try Again</button>
+        </div>
+    </div>
+
+    <div id="flag-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <h2>Flagged Questions</h2>
+            <p>You have flagged the following questions for review. Are you sure you want to submit the exam?</p>
+            <ul id="flagged-questions-list"></ul>
+            <div class="modal-buttons">
+                <button id="submit-anyway-btn" class="btn submit-btn">Submit Anyway</button>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="main.js"></script>
+</body>
+</html>
